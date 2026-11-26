@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cf88bb80700b5d43bcc36ec56a24201, type: 3}
+  m_Name: CatalogoCarros
+  m_EditorClassIdentifier: Assembly-CSharp::CatalogoCarros
+  modelos:
+  - id: Kicks
+    nome: Nissan Kicks
+    descricao: "O orgulho do Bet\xE3o! C\xE2mera 360, alerta de ponto cego, sensor
+      de estacionamento e frenagem de emerg\xEAncia."
+    lataria: {fileID: 21300000, guid: c8c8e1692431a3044bb6ee87c1f30f80, type: 3}
+    detalhes: {fileID: 21300000, guid: 5c22de80edf116c418180181f0060927, type: 3}
+    latariaCasa: {fileID: 21300000, guid: ecade999a5909564dbf65e0fd2736252, type: 3}
+    detalhesCasa: {fileID: 21300000, guid: 89129b912fca11c4d8c95d9b4ab05ca1, type: 3}
+    mostrarRodas: 1
+  - id: Compacto
+    nome: Pipoca
+    descricao: "Pequeno, econ\xF4mico e estaciona em qualquer cantinho. At\xE9 na
+      vaga da Dona Cida."
+    lataria: {fileID: 21300000, guid: 5caaa49e0a8267e4e84fd49a468fc561, type: 3}
+    detalhes: {fileID: 21300000, guid: 42319c3f1990ae04688a0e882bac8813, type: 3}
+    latariaCasa: {fileID: 21300000, guid: ed12db2f0ff55d04499d1e874733058e, type: 3}
+    detalhesCasa: {fileID: 21300000, guid: e67b3df6558797b469c4dfaa62a4b8c8, type: 3}
+    mostrarRodas: 0
+  - id: Hatch
+    nome: "Fa\xEDsca"
+    descricao: Esperto e animado. Perfeito para o dia a dia (e para ir ao mercado).
+    lataria: {fileID: 21300000, guid: e515e16b591188340853a9eb970b2156, type: 3}
+    detalhes: {fileID: 21300000, guid: 4849421d9d435434187ff8372571a271, type: 3}
+    latariaCasa: {fileID: 21300000, guid: 6ddfbd0ab560ef040b5be9ed7a73b21f, type: 3}
+    detalhesCasa: {fileID: 21300000, guid: 95ae4b2550001504283c60819042611c, type: 3}
+    mostrarRodas: 0
+  - id: Seda
+    nome: Executivo
+    descricao: "Confort\xE1vel e elegante. Ar de quem est\xE1 atrasado para uma reuni\xE3o
+      importante."
+    lataria: {fileID: 21300000, guid: b941587e1d0712946a765a839f18476c, type: 3}
+    detalhes: {fileID: 21300000, guid: 15d320ccd054b564cb0b32ff80b963a1, type: 3}
+    latariaCasa: {fileID: 21300000, guid: 276f9f4e35313bc4ba29047ac453bbd0, type: 3}
+    detalhesCasa: {fileID: 21300000, guid: 23e234bf91ecd324799418cfc4a189a4, type: 3}
+    mostrarRodas: 0
+  - id: SUV
+    nome: "Trov\xE3o"
+    descricao: "Grand\xE3o e valente. Passa por cima de qualquer buraco. (Por favor,
+      n\xE3o tente.)"
+    lataria: {fileID: 21300000, guid: 6e89959498161e340b186d47457d5123, type: 3}
+    detalhes: {fileID: 21300000, guid: e8f01b1b5df6e07468633e36e5e6ce3b, type: 3}
+    latariaCasa: {fileID: 21300000, guid: b1e80941e7ce38549ae542a830040508, type: 3}
+    detalhesCasa: {fileID: 21300000, guid: 4a7735fc9f6d727428d4024e46800ecd, type: 3}
+    mostrarRodas: 0
+  - id: Picape
+    nome: "P\xE9 de Boi"
+    descricao: "Ca\xE7amba para levar as compras do m\xEAs inteiro. E a Gertrudes."
+    lataria: {fileID: 21300000, guid: 2ebb464c8c33adb42b656c5081dae79b, type: 3}
+    detalhes: {fileID: 21300000, guid: 62015edc256f72446a03e95674491d75, type: 3}
+    latariaCasa: {fileID: 21300000, guid: 0c2ac4216170d5c47bd7d7100af65916, type: 3}
+    detalhesCasa: {fileID: 21300000, guid: 816f17f898e219b4397fc77fb8470776, type: 3}
+    mostrarRodas: 0
+  - id: Van
+    nome: "Perua da Fam\xEDlia"
+    descricao: "Cabe a fam\xEDlia toda, a vizinhan\xE7a e o cachorro da vizinhan\xE7a."
+    lataria: {fileID: 21300000, guid: 71e9b4327d37b684ca72f27352cd7d54, type: 3}
+    detalhes: {fileID: 21300000, guid: ad7b062760fd1014cb21f44ee3475f47, type: 3}
+    latariaCasa: {fileID: 21300000, guid: a494048824726d8418227547babc8b8d, type: 3}
+    detalhesCasa: {fileID: 21300000, guid: fd3df013b1b9a11478123f7d2fb206bc, type: 3}
+    mostrarRodas: 0
+  - id: Esportivo
+    nome: "Rel\xE2mpago"
+    descricao: "Faz VRUUUM mais alto. Pelo menos na sua imagina\xE7\xE3o."
+    lataria: {fileID: 21300000, guid: cbb6c78a21f2bac48aad546e68d84c8a, type: 3}
+    detalhes: {fileID: 21300000, guid: ece861667a4f38d4494a5b82ff69ff73, type: 3}
+    latariaCasa: {fileID: 21300000, guid: c1cf232ca028341408c0a137d378b756, type: 3}
+    detalhesCasa: {fileID: 21300000, guid: abb41a4e958a80644b6a31b945b992ca, type: 3}
+    mostrarRodas: 0
+  - id: Taxi
+    nome: "T\xE1xi J\xFAnior"
+    descricao: "Igualzinho ao t\xE1xi do pai nos velhos tempos. Bandeira 1 liberada!"
+    lataria: {fileID: 21300000, guid: 15aa975b2fca3b541a2bbd8003946159, type: 3}
+    detalhes: {fileID: 21300000, guid: 51c7427005d0c374493cd86831556ff4, type: 3}
+    latariaCasa: {fileID: 21300000, guid: b2ed8a61e4fd8464798960a01a0aa7cf, type: 3}
+    detalhesCasa: {fileID: 21300000, guid: 83db79575b1485e478e88794fd921cd1, type: 3}
+    mostrarRodas: 0
+  cores:
+  - nome: Vermelho Original
+    cor: {r: 0.91764706, g: 0.20425883, b: 0.27077734, a: 1}
+  - nome: Laranja Jason
+    cor: {r: 1, g: 0.5019608, b: 0.101960786, a: 1}
+  - nome: "Amarelo T\xE1xi"
+    cor: {r: 1, g: 0.76862746, b: 0.11764706, a: 1}
+  - nome: "Verde Bet\xE3o"
+    cor: {r: 0.20392157, g: 0.61960787, b: 0.3529412, a: 1}
+  - nome: "Azul Gerv\xE1sio"
+    cor: {r: 0.18039216, g: 0.38039216, b: 0.8509804, a: 1}
+  - nome: Rosa Dona Cida
+    cor: {r: 0.92941177, g: 0.3019608, b: 0.5803922, a: 1}
+  - nome: Roxo Uva
+    cor: {r: 0.50980395, g: 0.23529412, b: 0.74509805, a: 1}
+  - nome: Ciano Neon
+    cor: {r: 0.1764706, g: 0.84705883, b: 0.8862745, a: 1}
+  - nome: Branco Neve
+    cor: {r: 0.9607843, g: 0.9607843, b: 0.972549, a: 1}
+  - nome: Prata
+    cor: {r: 0.7529412, g: 0.76862746, b: 0.8, a: 1}
+  - nome: Grafite
+    cor: {r: 0.30588236, g: 0.32156864, b: 0.36078432, a: 1}
+  - nome: Preto Noite
+    cor: {r: 0.15686275, g: 0.15686275, b: 0.1882353, a: 1}

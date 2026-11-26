@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 4b05c00415a93b548a4e3f5253bfce5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6471197232677336413
+    second: PinturaEstacionamento_0
+  - first:
+      213: -7154934062996992139
+    second: PinturaEstacionamento_1
+  - first:
+      213: -5627277553975446323
+    second: PinturaEstacionamento_2
+  - first:
+      213: -8342766145197593639
+    second: PinturaEstacionamento_3
+  - first:
+      213: -4982083179666122613
+    second: PinturaEstacionamento_4
+  - first:
+      213: -5127894971175254527
+    second: PinturaEstacionamento_5
+  - first:
+      213: 8097230278414620463
+    second: PinturaEstacionamento_6
+  - first:
+      213: -4097050203330997196
+    second: PinturaEstacionamento_7
+  - first:
+      213: 5745384234161107448
+    second: PinturaEstacionamento_8
+  - first:
+      213: -5894176236575108100
+    second: PinturaEstacionamento_9
+  - first:
+      213: 9191188892400988375
+    second: PinturaEstacionamento_10
+  - first:
+      213: -6225283055228255884
+    second: PinturaEstacionamento_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinturaEstacionamento_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 67
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac6ca1760b136a0800000000000000
+      internalID: -6471197232677336413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 203
+        width: 67
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc8bfc06194bc90800000000000000
+      internalID: -7154934062996992139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 195
+        width: 67
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4b3c611e4e7e1b0800000000000000
+      internalID: -5627277553975446323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 187
+        width: 67
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba75f846a883c80800000000000000
+      internalID: -8342766145197593639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 179
+        width: 67
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b885d8a8eb51cdab0800000000000000
+      internalID: -4982083179666122613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 163
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106469541be06d8b0800000000000000
+      internalID: -5127894971175254527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 163
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d07989042f5070800000000000000
+      internalID: 8097230278414620463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 171
+        width: 67
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43493831c8a5427c0800000000000000
+      internalID: -4097050203330997196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 155
+        width: 77
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f17d474584bbbf40800000000000000
+      internalID: 5745384234161107448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 91
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3546701fda33ea0800000000000000
+      internalID: -5894176236575108100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 91
+        width: 115
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b313c999ad8f70800000000000000
+      internalID: 9191188892400988375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinturaEstacionamento_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 26
+        width: 220
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4718cd25b0a5b99a0800000000000000
+      internalID: -6225283055228255884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PinturaEstacionamento_0: -6471197232677336413
+      PinturaEstacionamento_1: -7154934062996992139
+      PinturaEstacionamento_10: 9191188892400988375
+      PinturaEstacionamento_11: -6225283055228255884
+      PinturaEstacionamento_2: -5627277553975446323
+      PinturaEstacionamento_3: -8342766145197593639
+      PinturaEstacionamento_4: -4982083179666122613
+      PinturaEstacionamento_5: -5127894971175254527
+      PinturaEstacionamento_6: 8097230278414620463
+      PinturaEstacionamento_7: -4097050203330997196
+      PinturaEstacionamento_8: 5745384234161107448
+      PinturaEstacionamento_9: -5894176236575108100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

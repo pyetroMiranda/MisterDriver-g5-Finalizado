@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbe4933a927454299d3a8113d18511, type: 3}
+  m_Name: Mae
+  m_EditorClassIdentifier: Assembly-CSharp::PersonagemHistoria
+  nome: Dona Cida
+  corNome: {r: 0.93, g: 0.3, b: 0.58, a: 1}
+  retrato: {fileID: 21300000, guid: 51ba07192b1fe0744a7d2eb975d21dda, type: 3}
+  quadros:
+  - {fileID: 21300000, guid: 6ce64c8b028048c439b853216e9c83e5, type: 3}
+  - {fileID: 21300000, guid: e46bb22dd52cba048a65369a3797856d, type: 3}
+  - {fileID: 21300000, guid: 24fe8a61be5e2fd4b9f6c45a568fa000, type: 3}
+  - {fileID: 21300000, guid: cdc4fc0243250ed408101ad9c9479765, type: 3}
+  - {fileID: 21300000, guid: 73e3be3fa1d2d2345b542f0c98b41811, type: 3}
+  - {fileID: 21300000, guid: f9773c969916b4940a347a0c00aa259f, type: 3}
+  - {fileID: 21300000, guid: d73e7a7a9d536e649afba15e766d025d, type: 3}
+  - {fileID: 21300000, guid: e176fbd06f8276446a7681b886a9229e, type: 3}
+  - {fileID: 21300000, guid: fc7f50e5fbf68ee4c84f3602ab6984a7, type: 3}
+  tomVoz: 1.4

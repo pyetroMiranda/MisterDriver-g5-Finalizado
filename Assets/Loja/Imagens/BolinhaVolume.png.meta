@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: beaa4d1fdb8096f4bbf7f69d2615ae04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 904912230394077163
+    second: BolinhaVolume_0
+  - first:
+      213: 3655255765819426975
+    second: BolinhaVolume_1
+  - first:
+      213: -2665526167022464057
+    second: BolinhaVolume_2
+  - first:
+      213: 2887369809856155265
+    second: BolinhaVolume_3
+  - first:
+      213: 3240823235897849292
+    second: BolinhaVolume_4
+  - first:
+      213: -7932886174719266225
+    second: BolinhaVolume_5
+  - first:
+      213: -6260536885324502185
+    second: BolinhaVolume_6
+  - first:
+      213: -1365336197856696776
+    second: BolinhaVolume_7
+  - first:
+      213: 7074144111567156596
+    second: BolinhaVolume_8
+  - first:
+      213: 7144667378221734073
+    second: BolinhaVolume_9
+  - first:
+      213: 957513519719755998
+    second: BolinhaVolume_10
+  - first:
+      213: 602819713850895887
+    second: BolinhaVolume_11
+  - first:
+      213: -9170743772260932276
+    second: BolinhaVolume_12
+  - first:
+      213: -5019924659801299130
+    second: BolinhaVolume_13
+  - first:
+      213: 8125690379404744569
+    second: BolinhaVolume_14
+  - first:
+      213: -6872818621323202066
+    second: BolinhaVolume_15
+  - first:
+      213: -727892330321226708
+    second: BolinhaVolume_16
+  - first:
+      213: -3346767536129908771
+    second: BolinhaVolume_17
+  - first:
+      213: -4257648970625620765
+    second: BolinhaVolume_18
+  - first:
+      213: -995416398338476901
+    second: BolinhaVolume_19
+  - first:
+      213: -5654418254482991951
+    second: BolinhaVolume_20
+  - first:
+      213: -8325215332428629940
+    second: BolinhaVolume_21
+  - first:
+      213: -573069673415719149
+    second: BolinhaVolume_22
+  - first:
+      213: -8253825553303553839
+    second: BolinhaVolume_23
+  - first:
+      213: -5708912168897143778
+    second: BolinhaVolume_24
+  - first:
+      213: -2976222147818012061
+    second: BolinhaVolume_25
+  - first:
+      213: 4852945014892864521
+    second: BolinhaVolume_26
+  - first:
+      213: 7202275024546062069
+    second: BolinhaVolume_27
+  - first:
+      213: 525189265234631280
+    second: BolinhaVolume_28
+  - first:
+      213: 1901457072480067289
+    second: BolinhaVolume_29
+  - first:
+      213: 7713121004254278775
+    second: BolinhaVolume_30
+  - first:
+      213: -6206457623111280272
+    second: BolinhaVolume_31
+  - first:
+      213: -5695941422636258442
+    second: BolinhaVolume_32
+  - first:
+      213: -2289821524313582062
+    second: BolinhaVolume_33
+  - first:
+      213: 1565714875189946789
+    second: BolinhaVolume_34
+  - first:
+      213: 8877019162909509561
+    second: BolinhaVolume_35
+  - first:
+      213: 3870099209247761986
+    second: BolinhaVolume_36
+  - first:
+      213: -3665767120303547514
+    second: BolinhaVolume_37
+  - first:
+      213: -178294649511093255
+    second: BolinhaVolume_38
+  - first:
+      213: -8136010336757674689
+    second: BolinhaVolume_39
+  - first:
+      213: -3268682358508088335
+    second: BolinhaVolume_40
+  - first:
+      213: -3017736919745554544
+    second: BolinhaVolume_41
+  - first:
+      213: -1272994557756366700
+    second: BolinhaVolume_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BolinhaVolume_0
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1076
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef9b8d01e4ee8c00800000000000000
+      internalID: 904912230394077163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_1
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1124
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f988ddca0c31ab230800000000000000
+      internalID: 3655255765819426975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1069
+        width: 166
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c31e1bd216220bd0800000000000000
+      internalID: -2665526167022464057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 712
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ec9ab4b8ff11820800000000000000
+      internalID: 2887369809856155265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 99
+        width: 930
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5f58bff87b9fc20800000000000000
+      internalID: 3240823235897849292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 775
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f423048ed0ab8e190800000000000000
+      internalID: -7932886174719266225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_6
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 666
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ba00f5fda1e19a0800000000000000
+      internalID: -6260536885324502185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 673
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836e4cf36f95d0de0800000000000000
+      internalID: -1365336197856696776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_8
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b1ebc6986c2260800000000000000
+      internalID: 7074144111567156596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_9
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 660
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b85a3d5025f62360800000000000000
+      internalID: 7144667378221734073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 648
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0b78a1975c94d00800000000000000
+      internalID: 957513519719755998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 616
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e6fabf555ad5800800000000000000
+      internalID: 602819713850895887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_12
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 611
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45e248b029fab080800000000000000
+      internalID: -9170743772260932276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 473
+        width: 54
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647e15d5e15a55ab0800000000000000
+      internalID: -5019924659801299130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_14
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 471
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779a3b295044c070800000000000000
+      internalID: 8125690379404744569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_15
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 498
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1375ea0e7de90a0800000000000000
+      internalID: -6872818621323202066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_16
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 359
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24d87838c106e5f0800000000000000
+      internalID: -727892330321226708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_17
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 421
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfda2768a4ed81d0800000000000000
+      internalID: -3346767536129908771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_18
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 409
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e46d87b1dac9e4c0800000000000000
+      internalID: -4257648970625620765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 377
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94bf654f029f22f0800000000000000
+      internalID: -995416398338476901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_20
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 358
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b49e025e887781b0800000000000000
+      internalID: -5654418254482991951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 312
+        width: 107
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48b4f793c4e67c80800000000000000
+      internalID: -8325215332428629940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_22
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 338
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317c1841b2c0c08f0800000000000000
+      internalID: -573069673415719149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_23
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 337
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8bc41d365847d80800000000000000
+      internalID: -8253825553303553839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_24
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 345
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c1bf621aed5c0b0800000000000000
+      internalID: -5708912168897143778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_25
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 279
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36248aaa9b552b6d0800000000000000
+      internalID: -2976222147818012061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 258
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904213f67cf195340800000000000000
+      internalID: 4852945014892864521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 208
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe5cbcb9fe93f360800000000000000
+      internalID: 7202275024546062069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 176
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a982aaad8d94700800000000000000
+      internalID: 525189265234631280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 158
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de14d01225536a10800000000000000
+      internalID: 1901457072480067289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7743e2000b28a0b60800000000000000
+      internalID: 7713121004254278775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_31
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 144
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079dfecccab3ed9a0800000000000000
+      internalID: -6206457623111280272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 103
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b255a5473f3f0b0800000000000000
+      internalID: -5695941422636258442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_33
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 144
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216de34a47be830e0800000000000000
+      internalID: -2289821524313582062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_34
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 144
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ed3b22698ab510800000000000000
+      internalID: 1565714875189946789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_35
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b78e8d65e1813b70800000000000000
+      internalID: 8877019162909509561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_36
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 131
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246abb4e9ba55b530800000000000000
+      internalID: 3870099209247761986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_37
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 128
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b1005e934902dc0800000000000000
+      internalID: -3665767120303547514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_38
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 131
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd98ef5f1968df0800000000000000
+      internalID: -178294649511093255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_39
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 113
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d07a484b5171f80800000000000000
+      internalID: -8136010336757674689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_40
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 131
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f31a8196be43a2d0800000000000000
+      internalID: -3268682358508088335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0971cf89248de16d0800000000000000
+      internalID: -3017736919745554544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolinhaVolume_42
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 101
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4902defb13a655ee0800000000000000
+      internalID: -1272994557756366700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BolinhaVolume_0: 904912230394077163
+      BolinhaVolume_1: 3655255765819426975
+      BolinhaVolume_10: 957513519719755998
+      BolinhaVolume_11: 602819713850895887
+      BolinhaVolume_12: -9170743772260932276
+      BolinhaVolume_13: -5019924659801299130
+      BolinhaVolume_14: 8125690379404744569
+      BolinhaVolume_15: -6872818621323202066
+      BolinhaVolume_16: -727892330321226708
+      BolinhaVolume_17: -3346767536129908771
+      BolinhaVolume_18: -4257648970625620765
+      BolinhaVolume_19: -995416398338476901
+      BolinhaVolume_2: -2665526167022464057
+      BolinhaVolume_20: -5654418254482991951
+      BolinhaVolume_21: -8325215332428629940
+      BolinhaVolume_22: -573069673415719149
+      BolinhaVolume_23: -8253825553303553839
+      BolinhaVolume_24: -5708912168897143778
+      BolinhaVolume_25: -2976222147818012061
+      BolinhaVolume_26: 4852945014892864521
+      BolinhaVolume_27: 7202275024546062069
+      BolinhaVolume_28: 525189265234631280
+      BolinhaVolume_29: 1901457072480067289
+      BolinhaVolume_3: 2887369809856155265
+      BolinhaVolume_30: 7713121004254278775
+      BolinhaVolume_31: -6206457623111280272
+      BolinhaVolume_32: -5695941422636258442
+      BolinhaVolume_33: -2289821524313582062
+      BolinhaVolume_34: 1565714875189946789
+      BolinhaVolume_35: 8877019162909509561
+      BolinhaVolume_36: 3870099209247761986
+      BolinhaVolume_37: -3665767120303547514
+      BolinhaVolume_38: -178294649511093255
+      BolinhaVolume_39: -8136010336757674689
+      BolinhaVolume_4: 3240823235897849292
+      BolinhaVolume_40: -3268682358508088335
+      BolinhaVolume_41: -3017736919745554544
+      BolinhaVolume_42: -1272994557756366700
+      BolinhaVolume_5: -7932886174719266225
+      BolinhaVolume_6: -6260536885324502185
+      BolinhaVolume_7: -1365336197856696776
+      BolinhaVolume_8: 7074144111567156596
+      BolinhaVolume_9: 7144667378221734073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

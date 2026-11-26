@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbe4933a927454299d3a8113d18511, type: 3}
+  m_Name: RebeldeChefe
+  m_EditorClassIdentifier: Assembly-CSharp::PersonagemHistoria
+  nome: Turbo
+  corNome: {r: 1, g: 0.24, b: 0.7, a: 1}
+  retrato: {fileID: 21300000, guid: 89bd63ceccb5c8e469800293fd32ea30, type: 3}
+  quadros:
+  - {fileID: 21300000, guid: 6e86311c15d523449b51cd7b2b0191c4, type: 3}
+  - {fileID: 21300000, guid: 70bc22eb1c5018a41af12f59d9ff09cf, type: 3}
+  - {fileID: 21300000, guid: 5e2b44ed638e2ac45a1e8289f34cbe81, type: 3}
+  - {fileID: 21300000, guid: 3c934c6f4ce2438498f59ce7134cf22e, type: 3}
+  - {fileID: 21300000, guid: 22ca130d8e5091a4da72b2977d34a460, type: 3}
+  - {fileID: 21300000, guid: d161413fbd941054d95c50fd9293e24f, type: 3}
+  - {fileID: 21300000, guid: ca60cd34016319f488bcf1b9cc053c30, type: 3}
+  - {fileID: 21300000, guid: 6fc2ff9e19bc5b343b43c3107ae99d63, type: 3}
+  - {fileID: 21300000, guid: 1e257c54ba9b10a48a120b6daeba25ba, type: 3}
+  tomVoz: 0.8

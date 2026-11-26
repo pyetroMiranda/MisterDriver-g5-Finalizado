@@ -1,0 +1,112 @@
+# SEU ROBERTO, "BETÃO" (o pai). Taxista aposentado com 30 anos de praça, nunca levou uma multa
+# (pelo menos é o que ele diz). Careca brilhante, cabelo grisalho dos lados, óculos grossos,
+# bigodão, camisa polo verde com botões e bermuda cáqui. Adora piada de tiozão e é apaixonado pelo seu Nissan Kicks novo.
+
+paleta
+k 40 22 44
+p 240 190 140
+q 200 140 100
+b 240 140 120
+h 190 190 200
+i 130 130 145
+j 230 230 240
+w 255 255 255
+o 50 40 50
+n 170 220 255
+u 90 70 60
+v 60 45 40
+c 60 160 90
+d 36 112 62
+f 60 160 90
+g 50 140 80
+l 190 160 110
+m 140 112 74
+s 110 70 40
+t 160 110 70
+e 34 20 40
+a 90 190 115
+fim
+
+quadro cabeca_baixo
+................
+.....kkkkkk.....
+....kppwwppk....
+...kpppwppppk...
+..kpppppppppqk..
+.khhppppppppphk.
+.khhpppppppphhk.
+.khooooppoooohk.
+.kpoenoppoenopk.
+.kpooooppoooopk.
+.kppuuuuuuuuppk.
+..kpuuvqqvuupk..
+...kkqppppqkk...
+fim
+
+quadro cabeca_cima
+................
+.....kkkkkk.....
+....kppwwppk....
+...kpppwppppk...
+..kpppppppppqk..
+.khpppppppppphk.
+.khhppppppppphk.
+.khhhhhhhhhhhhk.
+.khhhhhhhhhhhhk.
+.kphhhhhhhhhhpk.
+.kpihhhhhhhhipk.
+..kiiiiiiiiiik..
+...kkqppppqkk...
+fim
+
+quadro cabeca_lado
+................
+......kkkkk.....
+.....kppwwpk....
+....kpppwpppk...
+...kppppppppqk..
+..khhppppppppqk.
+..khhhpppppppk..
+..khhhpoooooook.
+..khphpoenppppk.
+..khqhpooooppk..
+..kiihppuuuuuk..
+...kiipuuvuuk...
+....kkqpppkk....
+fim
+
+# Retrato (32x32): metade esquerda, a direita é espelhada.
+quadro retrato_metade
+................
+................
+................
+..........kkkkkk
+........kkpppppp
+.......kppppwwpp
+......kpppwwpppp
+.....kppppwppppp
+.....kpppppppppp
+....kppppppppppp
+....kppppppppppp
+...khhpppppppppp
+...khhhppppppppp
+...khhhppqqqqppp
+..khhhhppppppppp
+..khhhpppppppppp
+.kqhhpiiiiiipppp
+.kqhpooooooooppp
+.kqhponneennoooo
+.kqhponweennoppp
+.kqpponnnnnnoppp
+..kppooooooooppp
+..kpppppppppppqp
+..kpppppuuuuuuuu
+...kppuuuuuuuuuu
+...kpuuuuvvuuuuu
+....kqppppppqkkk
+.....kqppppppppp
+.......kkkqqqppp
+...kkkkdddkqqqqq
+.kkdcccccddkaaaa
+kdcccccccccdkaaw
+fim

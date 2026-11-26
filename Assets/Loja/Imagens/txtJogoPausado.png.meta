@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 1d194ac12b75c5d4898e7093778f31f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9186654124766847091
+    second: txtJogoPausado_0
+  - first:
+      213: 2596776739567787069
+    second: txtJogoPausado_1
+  - first:
+      213: 9093450964795105766
+    second: txtJogoPausado_2
+  - first:
+      213: 8338486662270458216
+    second: txtJogoPausado_3
+  - first:
+      213: 7651305657414124592
+    second: txtJogoPausado_4
+  - first:
+      213: 3940049965181235020
+    second: txtJogoPausado_5
+  - first:
+      213: -8385445188708275771
+    second: txtJogoPausado_6
+  - first:
+      213: -268603993689185527
+    second: txtJogoPausado_7
+  - first:
+      213: -5105762890230912030
+    second: txtJogoPausado_8
+  - first:
+      213: -1645452035035455330
+    second: txtJogoPausado_9
+  - first:
+      213: 4546540896388849629
+    second: txtJogoPausado_10
+  - first:
+      213: -1355248009836156033
+    second: txtJogoPausado_11
+  - first:
+      213: 2851480457083926412
+    second: txtJogoPausado_12
+  - first:
+      213: 5603730710480970725
+    second: txtJogoPausado_13
+  - first:
+      213: -1633239587554429410
+    second: txtJogoPausado_14
+  - first:
+      213: -2387829288626858846
+    second: txtJogoPausado_15
+  - first:
+      213: -3270798168804524012
+    second: txtJogoPausado_16
+  - first:
+      213: 8653067435853090905
+    second: txtJogoPausado_17
+  - first:
+      213: 1314184042204092794
+    second: txtJogoPausado_18
+  - first:
+      213: -7941162794849869438
+    second: txtJogoPausado_19
+  - first:
+      213: -325990333078114158
+    second: txtJogoPausado_20
+  - first:
+      213: 566129120837433695
+    second: txtJogoPausado_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: txtJogoPausado_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 55
+        width: 763
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370ea15e04d8d7f70800000000000000
+      internalID: 9186654124766847091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_1
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 39
+        width: 1425
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c5fe2bfaa990420800000000000000
+      internalID: 2596776739567787069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_2
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 612
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1ab0b297d623e70800000000000000
+      internalID: 9093450964795105766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 146
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86996fca07148b370800000000000000
+      internalID: 8338486662270458216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 150
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0340b1205f5ee2a60800000000000000
+      internalID: 7651305657414124592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 122
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4feaeb619edda630800000000000000
+      internalID: 3940049965181235020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9e883670ae0ab80800000000000000
+      internalID: -8385445188708275771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_7
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 130
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903a7e2471ab54cf0800000000000000
+      internalID: -268603993689185527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_8
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 132
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb2a6ce3bfa429b0800000000000000
+      internalID: -5105762890230912030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_9
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 132
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90a4c4971e2a29e0800000000000000
+      internalID: -1645452035035455330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf1b0e4bde881f30800000000000000
+      internalID: 4546540896388849629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 103
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b292f8d11313de0800000000000000
+      internalID: -1355248009836156033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_12
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 110
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87b4703e5e729720800000000000000
+      internalID: 2851480457083926412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_13
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 112
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e36a2f246374cd40800000000000000
+      internalID: 5603730710480970725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_14
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 99
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1676b69f319559e0800000000000000
+      internalID: -1633239587554429410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_15
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 85
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a45f1bc9e9bcded0800000000000000
+      internalID: -2387829288626858846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_16
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 101
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4108868156acb92d0800000000000000
+      internalID: -3270798168804524012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_17
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 103
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950168bacfed51870800000000000000
+      internalID: 8653067435853090905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 98
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79df0d6c6bec3210800000000000000
+      internalID: 1314184042204092794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 85
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281ec6d13825bc190800000000000000
+      internalID: -7941162794849869438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_20
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290faace489d97bf0800000000000000
+      internalID: -325990333078114158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtJogoPausado_21
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 87
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59f4889f6b4bd700800000000000000
+      internalID: 566129120837433695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      txtJogoPausado_0: 9186654124766847091
+      txtJogoPausado_1: 2596776739567787069
+      txtJogoPausado_10: 4546540896388849629
+      txtJogoPausado_11: -1355248009836156033
+      txtJogoPausado_12: 2851480457083926412
+      txtJogoPausado_13: 5603730710480970725
+      txtJogoPausado_14: -1633239587554429410
+      txtJogoPausado_15: -2387829288626858846
+      txtJogoPausado_16: -3270798168804524012
+      txtJogoPausado_17: 8653067435853090905
+      txtJogoPausado_18: 1314184042204092794
+      txtJogoPausado_19: -7941162794849869438
+      txtJogoPausado_2: 9093450964795105766
+      txtJogoPausado_20: -325990333078114158
+      txtJogoPausado_21: 566129120837433695
+      txtJogoPausado_3: 8338486662270458216
+      txtJogoPausado_4: 7651305657414124592
+      txtJogoPausado_5: 3940049965181235020
+      txtJogoPausado_6: -8385445188708275771
+      txtJogoPausado_7: -268603993689185527
+      txtJogoPausado_8: -5105762890230912030
+      txtJogoPausado_9: -1645452035035455330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

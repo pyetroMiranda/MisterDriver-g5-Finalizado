@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: b80aee455979ae24391fbab14e5635aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7223119255080232743
+    second: BtnPause_0
+  - first:
+      213: 4701106696487181378
+    second: BtnPause_1
+  - first:
+      213: 6664492561881465408
+    second: BtnPause_2
+  - first:
+      213: -2468301929101210253
+    second: BtnPause_3
+  - first:
+      213: 5131739831628957852
+    second: BtnPause_4
+  - first:
+      213: 4591848125461202087
+    second: BtnPause_5
+  - first:
+      213: -3041480102110131769
+    second: BtnPause_6
+  - first:
+      213: 3804924115161830865
+    second: BtnPause_7
+  - first:
+      213: 3829048153089826285
+    second: BtnPause_8
+  - first:
+      213: 1569884125078970998
+    second: BtnPause_9
+  - first:
+      213: -5914068727027526055
+    second: BtnPause_10
+  - first:
+      213: -5347884166108151579
+    second: BtnPause_11
+  - first:
+      213: 4885790860224289462
+    second: BtnPause_12
+  - first:
+      213: -5742755992782605067
+    second: BtnPause_13
+  - first:
+      213: -1882372986409446517
+    second: BtnPause_14
+  - first:
+      213: 4792265752750190849
+    second: BtnPause_15
+  - first:
+      213: -3791976898685305700
+    second: BtnPause_16
+  - first:
+      213: 6719745021908363608
+    second: BtnPause_17
+  - first:
+      213: 3564999581044672929
+    second: BtnPause_18
+  - first:
+      213: -2134123476271964336
+    second: BtnPause_19
+  - first:
+      213: 2399669877041157078
+    second: BtnPause_20
+  - first:
+      213: 2496214256332933496
+    second: BtnPause_21
+  - first:
+      213: 4096108306159545378
+    second: BtnPause_22
+  - first:
+      213: 4511398571879207587
+    second: BtnPause_23
+  - first:
+      213: 2879457845335094250
+    second: BtnPause_24
+  - first:
+      213: -7688313826429586488
+    second: BtnPause_25
+  - first:
+      213: -1958627519055511911
+    second: BtnPause_26
+  - first:
+      213: 4737747071528977439
+    second: BtnPause_27
+  - first:
+      213: 4417650616045865619
+    second: BtnPause_28
+  - first:
+      213: -5465893446244117839
+    second: BtnPause_29
+  - first:
+      213: -687148864320232441
+    second: BtnPause_30
+  - first:
+      213: 6728060340547523919
+    second: BtnPause_31
+  - first:
+      213: 2842001054714721977
+    second: BtnPause_32
+  - first:
+      213: -8972332053347053180
+    second: BtnPause_33
+  - first:
+      213: 2728066101120498858
+    second: BtnPause_34
+  - first:
+      213: 3299790184459187879
+    second: BtnPause_35
+  - first:
+      213: 6693477280743315231
+    second: BtnPause_36
+  - first:
+      213: -7025839987421888281
+    second: BtnPause_37
+  - first:
+      213: -498551182820159666
+    second: BtnPause_38
+  - first:
+      213: 5790003540386614659
+    second: BtnPause_39
+  - first:
+      213: 4950916740970308884
+    second: BtnPause_40
+  - first:
+      213: 352404589298232928
+    second: BtnPause_41
+  - first:
+      213: 5652914461039643752
+    second: BtnPause_42
+  - first:
+      213: 6669550936207603876
+    second: BtnPause_43
+  - first:
+      213: -980175781415778295
+    second: BtnPause_44
+  - first:
+      213: 5921653908348056179
+    second: BtnPause_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BtnPause_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 660
+        width: 508
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727675951bcad3460800000000000000
+      internalID: 7223119255080232743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1052
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c145702afad3140800000000000000
+      internalID: 4701106696487181378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1020
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0428d2fcca80d7c50800000000000000
+      internalID: 6664492561881465408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1012
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc28d1974debdd0800000000000000
+      internalID: -2468301929101210253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1028
+        width: 117
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9887ff003a973740800000000000000
+      internalID: 5131739831628957852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1026
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a488ac9a8589bf30800000000000000
+      internalID: 4591848125461202087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 303
+        width: 229
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c98e4a26fd7ac5d0800000000000000
+      internalID: -3041480102110131769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 56
+        width: 435
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5d989c25ecdc430800000000000000
+      internalID: 3804924115161830865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_8
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 643
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedd8c01203832530800000000000000
+      internalID: 3829048153089826285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_9
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 562
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726bdd4b4959c510800000000000000
+      internalID: 1569884125078970998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 231
+        width: 186
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956174ca3d10deda0800000000000000
+      internalID: -5914068727027526055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 401
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0003b6faf78c5b0800000000000000
+      internalID: -5347884166108151579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_12
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 386
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bad48eb6e0ddc340800000000000000
+      internalID: 4885790860224289462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 312
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4727ad9d1ad40b0800000000000000
+      internalID: -5742755992782605067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_14
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 337
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83164afdb770e5e0800000000000000
+      internalID: -1882372986409446517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 352
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f1f5cf4c818240800000000000000
+      internalID: 4792265752750190849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_16
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 328
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cff55f911306bc0800000000000000
+      internalID: -3791976898685305700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_17
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 340
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8592c04ae74514d50800000000000000
+      internalID: 6719745021908363608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_18
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 310
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a985941b3c697130800000000000000
+      internalID: 3564999581044672929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 325
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fdcf161021262e0800000000000000
+      internalID: -2134123476271964336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_20
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 299
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d35e370a075d4120800000000000000
+      internalID: 2399669877041157078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_21
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 310
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8798dfff3a554a220800000000000000
+      internalID: 2496214256332933496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_22
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 305
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22caa266dcc48d830800000000000000
+      internalID: 4096108306159545378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_23
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 283
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a290154915bb9e30800000000000000
+      internalID: 4511398571879207587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_24
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 302
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f8e087a3e5f720800000000000000
+      internalID: 2879457845335094250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 248
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3b0fd2f4f9d4590800000000000000
+      internalID: -7688313826429586488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_26
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 242
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e346f06ae81d4e0800000000000000
+      internalID: -1958627519055511911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_27
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 256
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14c1222cdbdfb140800000000000000
+      internalID: 4737747071528977439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_28
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a033f54d5ae4d30800000000000000
+      internalID: 4417650616045865619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_29
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 272
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2db74cede3524b0800000000000000
+      internalID: -5465893446244117839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 202
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7042162afb1c676f0800000000000000
+      internalID: -687148864320232441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 200
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459ab1ab3fde5d50800000000000000
+      internalID: 6728060340547523919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 190
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b67e85d6e0d07720800000000000000
+      internalID: 2842001054714721977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 172
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481d561f88fdb7380800000000000000
+      internalID: -8972332053347053180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_34
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 214
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac72114aa90cd520800000000000000
+      internalID: 2728066101120498858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_35
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 119
+        width: 175
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6b20290b53bcd20800000000000000
+      internalID: 3299790184459187879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_36
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 205
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f175ade8f1204ec50800000000000000
+      internalID: 6693477280743315231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_37
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 198
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0cbf481c33f7e90800000000000000
+      internalID: -7025839987421888281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f47a5375ac419f0800000000000000
+      internalID: -498551182820159666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 121
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d8ff01b893a5050800000000000000
+      internalID: 5790003540386614659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415e11a7b8035b440800000000000000
+      internalID: 4950916740970308884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_41
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 128
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea65a5b1ef3e400800000000000000
+      internalID: 352404589298232928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_42
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 136
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ccfeb70cf237e40800000000000000
+      internalID: 5652914461039643752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 154
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8370c5d310f8c50800000000000000
+      internalID: 6669550936207603876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_44
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 188
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908854be157b562f0800000000000000
+      internalID: -980175781415778295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnPause_45
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 161
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372b3e9fad0fd2250800000000000000
+      internalID: 5921653908348056179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BtnPause_0: 7223119255080232743
+      BtnPause_1: 4701106696487181378
+      BtnPause_10: -5914068727027526055
+      BtnPause_11: -5347884166108151579
+      BtnPause_12: 4885790860224289462
+      BtnPause_13: -5742755992782605067
+      BtnPause_14: -1882372986409446517
+      BtnPause_15: 4792265752750190849
+      BtnPause_16: -3791976898685305700
+      BtnPause_17: 6719745021908363608
+      BtnPause_18: 3564999581044672929
+      BtnPause_19: -2134123476271964336
+      BtnPause_2: 6664492561881465408
+      BtnPause_20: 2399669877041157078
+      BtnPause_21: 2496214256332933496
+      BtnPause_22: 4096108306159545378
+      BtnPause_23: 4511398571879207587
+      BtnPause_24: 2879457845335094250
+      BtnPause_25: -7688313826429586488
+      BtnPause_26: -1958627519055511911
+      BtnPause_27: 4737747071528977439
+      BtnPause_28: 4417650616045865619
+      BtnPause_29: -5465893446244117839
+      BtnPause_3: -2468301929101210253
+      BtnPause_30: -687148864320232441
+      BtnPause_31: 6728060340547523919
+      BtnPause_32: 2842001054714721977
+      BtnPause_33: -8972332053347053180
+      BtnPause_34: 2728066101120498858
+      BtnPause_35: 3299790184459187879
+      BtnPause_36: 6693477280743315231
+      BtnPause_37: -7025839987421888281
+      BtnPause_38: -498551182820159666
+      BtnPause_39: 5790003540386614659
+      BtnPause_4: 5131739831628957852
+      BtnPause_40: 4950916740970308884
+      BtnPause_41: 352404589298232928
+      BtnPause_42: 5652914461039643752
+      BtnPause_43: 6669550936207603876
+      BtnPause_44: -980175781415778295
+      BtnPause_45: 5921653908348056179
+      BtnPause_5: 4591848125461202087
+      BtnPause_6: -3041480102110131769
+      BtnPause_7: 3804924115161830865
+      BtnPause_8: 3829048153089826285
+      BtnPause_9: 1569884125078970998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

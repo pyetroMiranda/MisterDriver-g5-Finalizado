@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: a157036c2d961ed4692a8f7967ccf2f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2383678245471691494
+    second: txtTenteNovamente_0
+  - first:
+      213: 1626075011541627210
+    second: txtTenteNovamente_1
+  - first:
+      213: -6298712387384426983
+    second: txtTenteNovamente_2
+  - first:
+      213: -824545369731398951
+    second: txtTenteNovamente_3
+  - first:
+      213: 1483171427140922485
+    second: txtTenteNovamente_4
+  - first:
+      213: -2691845865302839284
+    second: txtTenteNovamente_5
+  - first:
+      213: -2486928340636356713
+    second: txtTenteNovamente_6
+  - first:
+      213: 3633785659543467695
+    second: txtTenteNovamente_7
+  - first:
+      213: 3918084423192559877
+    second: txtTenteNovamente_8
+  - first:
+      213: 255061575284038795
+    second: txtTenteNovamente_9
+  - first:
+      213: 4153683525324320922
+    second: txtTenteNovamente_10
+  - first:
+      213: -111989611359359204
+    second: txtTenteNovamente_11
+  - first:
+      213: -577341415917174674
+    second: txtTenteNovamente_12
+  - first:
+      213: 8349128244223004789
+    second: txtTenteNovamente_13
+  - first:
+      213: -3859352044653883423
+    second: txtTenteNovamente_14
+  - first:
+      213: -6128277464839164486
+    second: txtTenteNovamente_15
+  - first:
+      213: 7938158918118292493
+    second: txtTenteNovamente_16
+  - first:
+      213: -7033665204851873262
+    second: txtTenteNovamente_17
+  - first:
+      213: -7327798662339823091
+    second: txtTenteNovamente_18
+  - first:
+      213: -8841664673786767735
+    second: txtTenteNovamente_19
+  - first:
+      213: 6213633269559398579
+    second: txtTenteNovamente_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: txtTenteNovamente_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 868
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d55d7d3497beed0800000000000000
+      internalID: -2383678245471691494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_1
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 348
+        width: 932
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41f3119b9af09610800000000000000
+      internalID: 1626075011541627210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_2
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 663
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e3997a47a7698a0800000000000000
+      internalID: -6298712387384426983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 348
+        width: 312
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d287f7da50ae84f0800000000000000
+      internalID: -824545369731398951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_4
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 15
+        width: 1260
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c6eb70e88459410800000000000000
+      internalID: 1483171427140922485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 209
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0035809274a4aad0800000000000000
+      internalID: -2691845865302839284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 17
+        width: 705
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fa48ab9d7ac7dd0800000000000000
+      internalID: -2486928340636356713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_7
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 63
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa63ff20ecccd6230800000000000000
+      internalID: 3633785659543467695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 50
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50142642605df5630800000000000000
+      internalID: 3918084423192559877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_9
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 65
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c18aeb6292a8300800000000000000
+      internalID: 255061575284038795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_10
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 48
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90395cb829d4a930800000000000000
+      internalID: 4153683525324320922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_11
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 53
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f2464ba02227ef0800000000000000
+      internalID: -111989611359359204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_12
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 49
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60c2268a0fdcf7f0800000000000000
+      internalID: -577341415917174674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_13
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 63
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570d71d07ef0ed370800000000000000
+      internalID: 8349128244223004789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_14
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef4a3b53c3d07ac0800000000000000
+      internalID: -3859352044653883423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_15
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdea3f5d1cf3faa0800000000000000
+      internalID: -6128277464839164486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_16
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 83
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c3a055a710a2e60800000000000000
+      internalID: 7938158918118292493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_17
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 79
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a67cb13c6636e90800000000000000
+      internalID: -7033665204851873262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_18
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 75
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0af6a1e0fd6e4a90800000000000000
+      internalID: -7327798662339823091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986d1d703d81c4580800000000000000
+      internalID: -8841664673786767735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtTenteNovamente_20
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 15
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b013a499824b3650800000000000000
+      internalID: 6213633269559398579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      txtTenteNovamente_0: -2383678245471691494
+      txtTenteNovamente_1: 1626075011541627210
+      txtTenteNovamente_10: 4153683525324320922
+      txtTenteNovamente_11: -111989611359359204
+      txtTenteNovamente_12: -577341415917174674
+      txtTenteNovamente_13: 8349128244223004789
+      txtTenteNovamente_14: -3859352044653883423
+      txtTenteNovamente_15: -6128277464839164486
+      txtTenteNovamente_16: 7938158918118292493
+      txtTenteNovamente_17: -7033665204851873262
+      txtTenteNovamente_18: -7327798662339823091
+      txtTenteNovamente_19: -8841664673786767735
+      txtTenteNovamente_2: -6298712387384426983
+      txtTenteNovamente_20: 6213633269559398579
+      txtTenteNovamente_3: -824545369731398951
+      txtTenteNovamente_4: 1483171427140922485
+      txtTenteNovamente_5: -2691845865302839284
+      txtTenteNovamente_6: -2486928340636356713
+      txtTenteNovamente_7: 3633785659543467695
+      txtTenteNovamente_8: 3918084423192559877
+      txtTenteNovamente_9: 255061575284038795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

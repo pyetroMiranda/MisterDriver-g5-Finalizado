@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: a96bc3f8b2b65bd4c9bbdfcdca8b7e7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6600851529764270737
+    second: txtCurvaEsquerda 1_0
+  - first:
+      213: 8228400180434907656
+    second: txtCurvaEsquerda 1_1
+  - first:
+      213: 6703955149618245405
+    second: txtCurvaEsquerda 1_2
+  - first:
+      213: 7954249222980686790
+    second: txtCurvaEsquerda 1_3
+  - first:
+      213: 423101482746020714
+    second: txtCurvaEsquerda 1_4
+  - first:
+      213: 6808544520132316988
+    second: txtCurvaEsquerda 1_5
+  - first:
+      213: -5368866313300124988
+    second: txtCurvaEsquerda 1_6
+  - first:
+      213: -8598825129788031079
+    second: txtCurvaEsquerda 1_7
+  - first:
+      213: 8244931545589947187
+    second: txtCurvaEsquerda 1_8
+  - first:
+      213: -8807976214481563800
+    second: txtCurvaEsquerda 1_9
+  - first:
+      213: 6681817046605053224
+    second: txtCurvaEsquerda 1_10
+  - first:
+      213: -4939200162861040473
+    second: txtCurvaEsquerda 1_11
+  - first:
+      213: 2971945990764856066
+    second: txtCurvaEsquerda 1_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 319
+        width: 833
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19271b65e7fea9b50800000000000000
+      internalID: 6600851529764270737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 59
+        width: 677
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80235904e56213270800000000000000
+      internalID: 8228400180434907656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 455
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f652380bb390d50800000000000000
+      internalID: 6703955149618245405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_3
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 457
+        width: 159
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d0be568b236e60800000000000000
+      internalID: 7954249222980686790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_4
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 256
+        width: 660
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63840f8e882fd500800000000000000
+      internalID: 423101482746020714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_5
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 439
+        width: 78
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f4be7fa2fcc7e50800000000000000
+      internalID: 6808544520132316988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_6
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 461
+        width: 156
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca5f259884fd75b0800000000000000
+      internalID: -5368866313300124988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_7
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 461
+        width: 482
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f384d5a16daa880800000000000000
+      internalID: -8598825129788031079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_8
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 337
+        width: 232
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b1d44ae81eb6270800000000000000
+      internalID: 8244931545589947187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_9
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 455
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f8cb1bc48c3c580800000000000000
+      internalID: -8807976214481563800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 280
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d3b0db3359abc50800000000000000
+      internalID: 6681817046605053224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 59
+        width: 1247
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acbd12fe9f647bb0800000000000000
+      internalID: -4939200162861040473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txtCurvaEsquerda 1_12
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 71
+        width: 112
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2038f2fe1297e3920800000000000000
+      internalID: 2971945990764856066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      txtCurvaEsquerda 1_0: 6600851529764270737
+      txtCurvaEsquerda 1_1: 8228400180434907656
+      txtCurvaEsquerda 1_10: 6681817046605053224
+      txtCurvaEsquerda 1_11: -4939200162861040473
+      txtCurvaEsquerda 1_12: 2971945990764856066
+      txtCurvaEsquerda 1_2: 6703955149618245405
+      txtCurvaEsquerda 1_3: 7954249222980686790
+      txtCurvaEsquerda 1_4: 423101482746020714
+      txtCurvaEsquerda 1_5: 6808544520132316988
+      txtCurvaEsquerda 1_6: -5368866313300124988
+      txtCurvaEsquerda 1_7: -8598825129788031079
+      txtCurvaEsquerda 1_8: 8244931545589947187
+      txtCurvaEsquerda 1_9: -8807976214481563800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

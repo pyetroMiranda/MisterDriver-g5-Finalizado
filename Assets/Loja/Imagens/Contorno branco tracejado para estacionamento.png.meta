@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 6a377e9b831305044bfc4029cdc4d420
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4790595666561885768
+    second: Contorno branco tracejado para estacionamento_0
+  - first:
+      213: 674558533167293056
+    second: Contorno branco tracejado para estacionamento_1
+  - first:
+      213: -5099352296285100798
+    second: Contorno branco tracejado para estacionamento_2
+  - first:
+      213: -991852053999470492
+    second: Contorno branco tracejado para estacionamento_3
+  - first:
+      213: 6352903954346360400
+    second: Contorno branco tracejado para estacionamento_4
+  - first:
+      213: -6461859330325460978
+    second: Contorno branco tracejado para estacionamento_5
+  - first:
+      213: 8191708051137522424
+    second: Contorno branco tracejado para estacionamento_6
+  - first:
+      213: 4513404605409247882
+    second: Contorno branco tracejado para estacionamento_7
+  - first:
+      213: -5254593146003186069
+    second: Contorno branco tracejado para estacionamento_8
+  - first:
+      213: -2412091681349666458
+    second: Contorno branco tracejado para estacionamento_9
+  - first:
+      213: -9094251966244137894
+    second: Contorno branco tracejado para estacionamento_10
+  - first:
+      213: 5683586892302465011
+    second: Contorno branco tracejado para estacionamento_11
+  - first:
+      213: -6022934318591104443
+    second: Contorno branco tracejado para estacionamento_12
+  - first:
+      213: 2126640920161036923
+    second: Contorno branco tracejado para estacionamento_13
+  - first:
+      213: -8767495030851034496
+    second: Contorno branco tracejado para estacionamento_14
+  - first:
+      213: -2638825313017749940
+    second: Contorno branco tracejado para estacionamento_15
+  - first:
+      213: -2616914822826051934
+    second: Contorno branco tracejado para estacionamento_16
+  - first:
+      213: 1794052842904736608
+    second: Contorno branco tracejado para estacionamento_17
+  - first:
+      213: -5314851490151218130
+    second: Contorno branco tracejado para estacionamento_18
+  - first:
+      213: 1643664020536145117
+    second: Contorno branco tracejado para estacionamento_19
+  - first:
+      213: 4219923514241465305
+    second: Contorno branco tracejado para estacionamento_20
+  - first:
+      213: -1347632276318320789
+    second: Contorno branco tracejado para estacionamento_21
+  - first:
+      213: 1273066626010949037
+    second: Contorno branco tracejado para estacionamento_22
+  - first:
+      213: 394071899738743364
+    second: Contorno branco tracejado para estacionamento_23
+  - first:
+      213: -6023675548108703745
+    second: Contorno branco tracejado para estacionamento_24
+  - first:
+      213: 5616539115655930825
+    second: Contorno branco tracejado para estacionamento_25
+  - first:
+      213: 7360995534323259886
+    second: Contorno branco tracejado para estacionamento_26
+  - first:
+      213: 4454937086370068248
+    second: Contorno branco tracejado para estacionamento_27
+  - first:
+      213: -7274813344031682225
+    second: Contorno branco tracejado para estacionamento_28
+  - first:
+      213: 7806214833141526059
+    second: Contorno branco tracejado para estacionamento_29
+  - first:
+      213: 7641879738589014079
+    second: Contorno branco tracejado para estacionamento_30
+  - first:
+      213: 946941299257545246
+    second: Contorno branco tracejado para estacionamento_31
+  - first:
+      213: -2153936735190573529
+    second: Contorno branco tracejado para estacionamento_32
+  - first:
+      213: 2606321400499397154
+    second: Contorno branco tracejado para estacionamento_33
+  - first:
+      213: 1028152096539961714
+    second: Contorno branco tracejado para estacionamento_34
+  - first:
+      213: -4492836298258248162
+    second: Contorno branco tracejado para estacionamento_35
+  - first:
+      213: 7866941338692789651
+    second: Contorno branco tracejado para estacionamento_36
+  - first:
+      213: 8188110741637968408
+    second: Contorno branco tracejado para estacionamento_37
+  - first:
+      213: -6710331864542836871
+    second: Contorno branco tracejado para estacionamento_38
+  - first:
+      213: 5804369713944525924
+    second: Contorno branco tracejado para estacionamento_39
+  - first:
+      213: -3468376585680813765
+    second: Contorno branco tracejado para estacionamento_40
+  - first:
+      213: -4052743651795821077
+    second: Contorno branco tracejado para estacionamento_41
+  - first:
+      213: -4662584776228682003
+    second: Contorno branco tracejado para estacionamento_42
+  - first:
+      213: -4379094773764585439
+    second: Contorno branco tracejado para estacionamento_43
+  - first:
+      213: 8894491616116660418
+    second: Contorno branco tracejado para estacionamento_44
+  - first:
+      213: -7835629697169532587
+    second: Contorno branco tracejado para estacionamento_45
+  - first:
+      213: -954991863089747086
+    second: Contorno branco tracejado para estacionamento_46
+  - first:
+      213: -7997371941702790571
+    second: Contorno branco tracejado para estacionamento_47
+  - first:
+      213: 5442009355321753829
+    second: Contorno branco tracejado para estacionamento_48
+  - first:
+      213: 5582842836844660162
+    second: Contorno branco tracejado para estacionamento_49
+  - first:
+      213: -8498637461658341483
+    second: Contorno branco tracejado para estacionamento_50
+  - first:
+      213: -1691620716220387424
+    second: Contorno branco tracejado para estacionamento_51
+  - first:
+      213: -1699835270201682118
+    second: Contorno branco tracejado para estacionamento_52
+  - first:
+      213: -1908942854046205420
+    second: Contorno branco tracejado para estacionamento_53
+  - first:
+      213: 5377305396778075515
+    second: Contorno branco tracejado para estacionamento_54
+  - first:
+      213: -4410800868726402116
+    second: Contorno branco tracejado para estacionamento_55
+  - first:
+      213: -3962293040625014362
+    second: Contorno branco tracejado para estacionamento_56
+  - first:
+      213: 4385595058590892851
+    second: Contorno branco tracejado para estacionamento_57
+  - first:
+      213: -2694033025624480988
+    second: Contorno branco tracejado para estacionamento_58
+  - first:
+      213: 5635737950746992559
+    second: Contorno branco tracejado para estacionamento_59
+  - first:
+      213: -2023051393010619943
+    second: Contorno branco tracejado para estacionamento_60
+  - first:
+      213: -3967531498549205969
+    second: Contorno branco tracejado para estacionamento_61
+  - first:
+      213: -706300918707356535
+    second: Contorno branco tracejado para estacionamento_62
+  - first:
+      213: -3596351566523051231
+    second: Contorno branco tracejado para estacionamento_63
+  - first:
+      213: 445165835576969788
+    second: Contorno branco tracejado para estacionamento_64
+  - first:
+      213: 4074658715482133882
+    second: Contorno branco tracejado para estacionamento_65
+  - first:
+      213: -2931614168859537323
+    second: Contorno branco tracejado para estacionamento_66
+  - first:
+      213: -8746478654545261384
+    second: Contorno branco tracejado para estacionamento_67
+  - first:
+      213: 7707164953994010274
+    second: Contorno branco tracejado para estacionamento_68
+  - first:
+      213: -3586568739861428190
+    second: Contorno branco tracejado para estacionamento_69
+  - first:
+      213: 3894904004651545962
+    second: Contorno branco tracejado para estacionamento_70
+  - first:
+      213: -559361583341271475
+    second: Contorno branco tracejado para estacionamento_71
+  - first:
+      213: -3469327092458914828
+    second: Contorno branco tracejado para estacionamento_72
+  - first:
+      213: -4412214015514805578
+    second: Contorno branco tracejado para estacionamento_73
+  - first:
+      213: -4464102999793348495
+    second: Contorno branco tracejado para estacionamento_74
+  - first:
+      213: -8407468066257654823
+    second: Contorno branco tracejado para estacionamento_75
+  - first:
+      213: -3936610075477115798
+    second: Contorno branco tracejado para estacionamento_76
+  - first:
+      213: -7017111767601382495
+    second: Contorno branco tracejado para estacionamento_77
+  - first:
+      213: 2297416539368792566
+    second: Contorno branco tracejado para estacionamento_78
+  - first:
+      213: -7361091761194619115
+    second: Contorno branco tracejado para estacionamento_79
+  - first:
+      213: 5084579241240711449
+    second: Contorno branco tracejado para estacionamento_80
+  - first:
+      213: -2886874778347335570
+    second: Contorno branco tracejado para estacionamento_81
+  - first:
+      213: 4852938722191617477
+    second: Contorno branco tracejado para estacionamento_82
+  - first:
+      213: -5019237448534436304
+    second: Contorno branco tracejado para estacionamento_83
+  - first:
+      213: -7903723619645825182
+    second: Contorno branco tracejado para estacionamento_84
+  - first:
+      213: 66182779208230728
+    second: Contorno branco tracejado para estacionamento_85
+  - first:
+      213: 5923762987812495644
+    second: Contorno branco tracejado para estacionamento_86
+  - first:
+      213: 654253991329338834
+    second: Contorno branco tracejado para estacionamento_87
+  - first:
+      213: 1930581585818531310
+    second: Contorno branco tracejado para estacionamento_88
+  - first:
+      213: -5101935009974364841
+    second: Contorno branco tracejado para estacionamento_89
+  - first:
+      213: -4044324642683070382
+    second: Contorno branco tracejado para estacionamento_90
+  - first:
+      213: 4204586673697617801
+    second: Contorno branco tracejado para estacionamento_91
+  - first:
+      213: -4958345295094395353
+    second: Contorno branco tracejado para estacionamento_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_0
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 929
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b99d087f92648db0800000000000000
+      internalID: -4790595666561885768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 528
+        width: 137
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08225a579638c5900800000000000000
+      internalID: 674558533167293056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 838
+        width: 290
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205aa53aa167b39b0800000000000000
+      internalID: -5099352296285100798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 777
+        width: 43
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468be9bdfcb3c32f0800000000000000
+      internalID: -991852053999470492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 536
+        width: 238
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e3df2cc7c0a2850800000000000000
+      internalID: 6352903954346360400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_5
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 536
+        width: 285
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08486bec2dd256a0800000000000000
+      internalID: -6461859330325460978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_6
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 838
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa62cb221bcea170800000000000000
+      internalID: 8191708051137522424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_7
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 797
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82c7095395d2ae30800000000000000
+      internalID: 4513404605409247882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_8
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 817
+        width: 29
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e174daf5fe317b0800000000000000
+      internalID: -5254593146003186069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_9
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 849
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6697a774567868ed0800000000000000
+      internalID: -2412091681349666458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_10
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 785
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54de16250abac180800000000000000
+      internalID: -9094251966244137894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 801
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f731c56a2820ee40800000000000000
+      internalID: 5683586892302465011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_12
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 789
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a2edae52d3a6ca0800000000000000
+      internalID: -6022934318591104443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_13
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 799
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a220346a8538d10800000000000000
+      internalID: 2126640920161036923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 277
+        width: 354
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0822f1cb8b9935680800000000000000
+      internalID: -8767495030851034496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 694
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e9441eb52016bd0800000000000000
+      internalID: -2638825313017749940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 612
+        width: 274
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6bff965d9deabd0800000000000000
+      internalID: -2616914822826051934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 678
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063dd992e81c5e810800000000000000
+      internalID: 1794052842904736608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_18
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 640
+        width: 246
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24c49f9abadd36b0800000000000000
+      internalID: -5314851490151218130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_19
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 722
+        width: 95
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4b52ad7b77fc610800000000000000
+      internalID: 1643664020536145117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 658
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db3eadf31e209a30800000000000000
+      internalID: 4219923514241465305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_21
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 673
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b670232b59f3c4de0800000000000000
+      internalID: -1347632276318320789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_22
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 671
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5a9c2f957daa110800000000000000
+      internalID: 1273066626010949037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_23
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 674
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44224ef0e46087500800000000000000
+      internalID: 394071899738743364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 550
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff736c8f00b976ca0800000000000000
+      internalID: -6023675548108703745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 656
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c322c76194f1fd40800000000000000
+      internalID: 5616539115655930825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_26
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 426
+        width: 142
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee913903072872660800000000000000
+      internalID: 7360995534323259886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_27
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 646
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8173dc14dad13dd30800000000000000
+      internalID: 4454937086370068248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_28
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 648
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4158b5aecbaa0b90800000000000000
+      internalID: -7274813344031682225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_29
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 648
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e29c9180f355c60800000000000000
+      internalID: 7806214833141526059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_30
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 646
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f386ad242296d0a60800000000000000
+      internalID: 7641879738589014079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_31
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 456
+        width: 77
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1294653816342d00800000000000000
+      internalID: 946941299257545246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_32
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 614
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e1d4e83fdab12e0800000000000000
+      internalID: -2153936735190573529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_33
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 608
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222e34f31838b2420800000000000000
+      internalID: 2606321400499397154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 594
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279665962eab44e00800000000000000
+      internalID: 1028152096539961714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 594
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e0658d03d36a1c0800000000000000
+      internalID: -4492836298258248162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 590
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395ae99777dfc2d60800000000000000
+      internalID: 7866941338692789651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_37
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 592
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81234e8465302a170800000000000000
+      internalID: 8188110741637968408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 578
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97780f8d8bc10e2a0800000000000000
+      internalID: -6710331864542836871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 578
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cf2b080834d8050800000000000000
+      internalID: 5804369713944525924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 482
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31863f1fd9dddfc0800000000000000
+      internalID: -3468376585680813765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_41
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 544
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed9dfcfe13c1c7c0800000000000000
+      internalID: -4052743651795821077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_42
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 536
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6ceb579db2b4fb0800000000000000
+      internalID: -4662584776228682003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 360
+        width: 198
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1280ef331845a33c0800000000000000
+      internalID: -4379094773764585439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 484
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d254fff49f6b70800000000000000
+      internalID: 8894491616116660418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_45
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 440
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55955bc2e40424390800000000000000
+      internalID: -7835629697169532587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_46
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 262
+        width: 159
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ba525d5ff2fb2f0800000000000000
+      internalID: -954991863089747086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_47
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 481
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55211264790a30190800000000000000
+      internalID: -7997371941702790571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_48
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e04e48fca6e58b40800000000000000
+      internalID: 5442009355321753829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_49
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 448
+        width: 103
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5c5fe1bfd3a7d40800000000000000
+      internalID: 5582842836844660162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_50
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 440
+        width: 103
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fe60f9146ce0a80800000000000000
+      internalID: -8498637461658341483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_51
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 488
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afedf2dbe72688e0800000000000000
+      internalID: -1691620716220387424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_52
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 487
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37d2fee3d8f868e0800000000000000
+      internalID: -1699835270201682118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_53
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 482
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a3e0896921285e0800000000000000
+      internalID: -1908942854046205420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_54
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 472
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b758fb7a4c600aa40800000000000000
+      internalID: 5377305396778075515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_55
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 360
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb31494baffa9c2c0800000000000000
+      internalID: -4410800868726402116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_56
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 448
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a92b81097b1309c0800000000000000
+      internalID: -3962293040625014362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_57
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 439
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333c40c4873ccdc30800000000000000
+      internalID: 4385595058590892851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 63
+        width: 292
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4236b7e9c3fdc9ad0800000000000000
+      internalID: -2694033025624480988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 302
+        width: 53
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf56798ec9263e40800000000000000
+      internalID: 5635737950746992559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d92e350a7dace3e0800000000000000
+      internalID: -2023051393010619943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_61
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 296
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f242dc97f1f70f8c0800000000000000
+      internalID: -3967531498549205969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_62
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 408
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c7aeb7e07b236f0800000000000000
+      internalID: -706300918707356535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_63
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 189
+        width: 137
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12359f5fd41371ec0800000000000000
+      internalID: -3596351566523051231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_64
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0
+        width: 175
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a84b708fb8d2600800000000000000
+      internalID: 445165835576969788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_65
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 312
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75134563881c8830800000000000000
+      internalID: 4074658715482133882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_66
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 129
+        width: 228
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55010ae1270d057d0800000000000000
+      internalID: -2931614168859537323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_67
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 286
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc0b4821044e9680800000000000000
+      internalID: -8746478654545261384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_68
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 390
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae172cf0b955fa60800000000000000
+      internalID: 7707164953994010274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_69
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 300
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2280a0acbb2f93ec0800000000000000
+      internalID: -3586568739861428190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_70
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65708f5e8a7d0630800000000000000
+      internalID: 3894904004651545962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_71
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 286
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4681f38a9fbc38f0800000000000000
+      internalID: -559361583341271475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_72
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 392
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf85404697adfc0800000000000000
+      internalID: -3469327092458914828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_73
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 288
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba7d34dabaa4c2c0800000000000000
+      internalID: -4412214015514805578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_74
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 280
+        width: 118
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170df8839f15c02c0800000000000000
+      internalID: -4464102999793348495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_75
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 279
+        width: 41
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba542a65ca25b80800000000000000
+      internalID: -8407468066257654823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_76
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 39
+        width: 251
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c76ff4ef95e59c0800000000000000
+      internalID: -3936610075477115798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_77
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 261
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abf7ee86063e9e90800000000000000
+      internalID: -7017111767601382495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_78
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 193
+        width: 124
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f12f2a9b2012ef10800000000000000
+      internalID: 2297416539368792566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_79
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 263
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa0fe3b0628d990800000000000000
+      internalID: -7361091761194619115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_80
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 255
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9115a7271ed009640800000000000000
+      internalID: 5084579241240711449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_81
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 259
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6092953fa2cfe7d0800000000000000
+      internalID: -2886874778347335570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_82
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 213
+        width: 115
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd28fc4e0a195340800000000000000
+      internalID: 4852938722191617477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_83
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 205
+        width: 102
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03654c43226185ab0800000000000000
+      internalID: -5019237448534436304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_84
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 205
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f55206e35505290800000000000000
+      internalID: -7903723619645825182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_85
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 191
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84764f413e02be000800000000000000
+      internalID: 66182779208230728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_86
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 95
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ab2e4d0f653250800000000000000
+      internalID: 5923762987812495644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_87
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 203
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5111ae980641900800000000000000
+      internalID: 654253991329338834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_88
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 191
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5bf9049bdcaca10800000000000000
+      internalID: 1930581585818531310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_89
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 191
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755595fb3294239b0800000000000000
+      internalID: -5101935009974364841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_90
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 175
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258548c4a2cafd7c0800000000000000
+      internalID: -4044324642683070382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_91
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 164
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98776198d41b95a30800000000000000
+      internalID: 4204586673697617801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contorno branco tracejado para estacionamento_92
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 143
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e4b2c793b603bb0800000000000000
+      internalID: -4958345295094395353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Contorno branco tracejado para estacionamento_0: -4790595666561885768
+      Contorno branco tracejado para estacionamento_1: 674558533167293056
+      Contorno branco tracejado para estacionamento_10: -9094251966244137894
+      Contorno branco tracejado para estacionamento_11: 5683586892302465011
+      Contorno branco tracejado para estacionamento_12: -6022934318591104443
+      Contorno branco tracejado para estacionamento_13: 2126640920161036923
+      Contorno branco tracejado para estacionamento_14: -8767495030851034496
+      Contorno branco tracejado para estacionamento_15: -2638825313017749940
+      Contorno branco tracejado para estacionamento_16: -2616914822826051934
+      Contorno branco tracejado para estacionamento_17: 1794052842904736608
+      Contorno branco tracejado para estacionamento_18: -5314851490151218130
+      Contorno branco tracejado para estacionamento_19: 1643664020536145117
+      Contorno branco tracejado para estacionamento_2: -5099352296285100798
+      Contorno branco tracejado para estacionamento_20: 4219923514241465305
+      Contorno branco tracejado para estacionamento_21: -1347632276318320789
+      Contorno branco tracejado para estacionamento_22: 1273066626010949037
+      Contorno branco tracejado para estacionamento_23: 394071899738743364
+      Contorno branco tracejado para estacionamento_24: -6023675548108703745
+      Contorno branco tracejado para estacionamento_25: 5616539115655930825
+      Contorno branco tracejado para estacionamento_26: 7360995534323259886
+      Contorno branco tracejado para estacionamento_27: 4454937086370068248
+      Contorno branco tracejado para estacionamento_28: -7274813344031682225
+      Contorno branco tracejado para estacionamento_29: 7806214833141526059
+      Contorno branco tracejado para estacionamento_3: -991852053999470492
+      Contorno branco tracejado para estacionamento_30: 7641879738589014079
+      Contorno branco tracejado para estacionamento_31: 946941299257545246
+      Contorno branco tracejado para estacionamento_32: -2153936735190573529
+      Contorno branco tracejado para estacionamento_33: 2606321400499397154
+      Contorno branco tracejado para estacionamento_34: 1028152096539961714
+      Contorno branco tracejado para estacionamento_35: -4492836298258248162
+      Contorno branco tracejado para estacionamento_36: 7866941338692789651
+      Contorno branco tracejado para estacionamento_37: 8188110741637968408
+      Contorno branco tracejado para estacionamento_38: -6710331864542836871
+      Contorno branco tracejado para estacionamento_39: 5804369713944525924
+      Contorno branco tracejado para estacionamento_4: 6352903954346360400
+      Contorno branco tracejado para estacionamento_40: -3468376585680813765
+      Contorno branco tracejado para estacionamento_41: -4052743651795821077
+      Contorno branco tracejado para estacionamento_42: -4662584776228682003
+      Contorno branco tracejado para estacionamento_43: -4379094773764585439
+      Contorno branco tracejado para estacionamento_44: 8894491616116660418
+      Contorno branco tracejado para estacionamento_45: -7835629697169532587
+      Contorno branco tracejado para estacionamento_46: -954991863089747086
+      Contorno branco tracejado para estacionamento_47: -7997371941702790571
+      Contorno branco tracejado para estacionamento_48: 5442009355321753829
+      Contorno branco tracejado para estacionamento_49: 5582842836844660162
+      Contorno branco tracejado para estacionamento_5: -6461859330325460978
+      Contorno branco tracejado para estacionamento_50: -8498637461658341483
+      Contorno branco tracejado para estacionamento_51: -1691620716220387424
+      Contorno branco tracejado para estacionamento_52: -1699835270201682118
+      Contorno branco tracejado para estacionamento_53: -1908942854046205420
+      Contorno branco tracejado para estacionamento_54: 5377305396778075515
+      Contorno branco tracejado para estacionamento_55: -4410800868726402116
+      Contorno branco tracejado para estacionamento_56: -3962293040625014362
+      Contorno branco tracejado para estacionamento_57: 4385595058590892851
+      Contorno branco tracejado para estacionamento_58: -2694033025624480988
+      Contorno branco tracejado para estacionamento_59: 5635737950746992559
+      Contorno branco tracejado para estacionamento_6: 8191708051137522424
+      Contorno branco tracejado para estacionamento_60: -2023051393010619943
+      Contorno branco tracejado para estacionamento_61: -3967531498549205969
+      Contorno branco tracejado para estacionamento_62: -706300918707356535
+      Contorno branco tracejado para estacionamento_63: -3596351566523051231
+      Contorno branco tracejado para estacionamento_64: 445165835576969788
+      Contorno branco tracejado para estacionamento_65: 4074658715482133882
+      Contorno branco tracejado para estacionamento_66: -2931614168859537323
+      Contorno branco tracejado para estacionamento_67: -8746478654545261384
+      Contorno branco tracejado para estacionamento_68: 7707164953994010274
+      Contorno branco tracejado para estacionamento_69: -3586568739861428190
+      Contorno branco tracejado para estacionamento_7: 4513404605409247882
+      Contorno branco tracejado para estacionamento_70: 3894904004651545962
+      Contorno branco tracejado para estacionamento_71: -559361583341271475
+      Contorno branco tracejado para estacionamento_72: -3469327092458914828
+      Contorno branco tracejado para estacionamento_73: -4412214015514805578
+      Contorno branco tracejado para estacionamento_74: -4464102999793348495
+      Contorno branco tracejado para estacionamento_75: -8407468066257654823
+      Contorno branco tracejado para estacionamento_76: -3936610075477115798
+      Contorno branco tracejado para estacionamento_77: -7017111767601382495
+      Contorno branco tracejado para estacionamento_78: 2297416539368792566
+      Contorno branco tracejado para estacionamento_79: -7361091761194619115
+      Contorno branco tracejado para estacionamento_8: -5254593146003186069
+      Contorno branco tracejado para estacionamento_80: 5084579241240711449
+      Contorno branco tracejado para estacionamento_81: -2886874778347335570
+      Contorno branco tracejado para estacionamento_82: 4852938722191617477
+      Contorno branco tracejado para estacionamento_83: -5019237448534436304
+      Contorno branco tracejado para estacionamento_84: -7903723619645825182
+      Contorno branco tracejado para estacionamento_85: 66182779208230728
+      Contorno branco tracejado para estacionamento_86: 5923762987812495644
+      Contorno branco tracejado para estacionamento_87: 654253991329338834
+      Contorno branco tracejado para estacionamento_88: 1930581585818531310
+      Contorno branco tracejado para estacionamento_89: -5101935009974364841
+      Contorno branco tracejado para estacionamento_9: -2412091681349666458
+      Contorno branco tracejado para estacionamento_90: -4044324642683070382
+      Contorno branco tracejado para estacionamento_91: 4204586673697617801
+      Contorno branco tracejado para estacionamento_92: -4958345295094395353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

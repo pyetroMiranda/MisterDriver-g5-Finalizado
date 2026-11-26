@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbe4933a927454299d3a8113d18511, type: 3}
+  m_Name: Rebelde3
+  m_EditorClassIdentifier: Assembly-CSharp::PersonagemHistoria
+  nome: Capanga
+  corNome: {r: 0.47, g: 0.24, b: 0.7, a: 1}
+  retrato: {fileID: 21300000, guid: 8d73de947b516fd40b78b13b3fe04224, type: 3}
+  quadros:
+  - {fileID: 21300000, guid: 7da492fb0e71c3741b79c56ff8220deb, type: 3}
+  - {fileID: 21300000, guid: 5c8b0e72d1234ad4f86647e1524ebbc4, type: 3}
+  - {fileID: 21300000, guid: 4a10eff3825f6774e86485f018f2ce00, type: 3}
+  - {fileID: 21300000, guid: 966cbd30b3f5002459c655f5f1999b2f, type: 3}
+  - {fileID: 21300000, guid: d7de963a851bf4e44b3a40d8fb6472d2, type: 3}
+  - {fileID: 21300000, guid: bec17318ed938cd4e80acf83afce756a, type: 3}
+  - {fileID: 21300000, guid: 8d6210cbaf500c3499993c5f0f2c9a69, type: 3}
+  - {fileID: 21300000, guid: ac1e16172f4bea74daac9e1eecd27316, type: 3}
+  - {fileID: 21300000, guid: 956c0d62c4bb6634b8a79bfe17eb7908, type: 3}
+  tomVoz: 1.15

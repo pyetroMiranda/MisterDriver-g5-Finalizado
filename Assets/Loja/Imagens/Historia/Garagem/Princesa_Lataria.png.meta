@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 1f5df4c9a49654d4390fa1dc0ca43c96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6888151843988776514
+    second: Princesa_Lataria_0
+  - first:
+      213: 401410104175310121
+    second: Princesa_Lataria_1
+  - first:
+      213: 4053695567234918947
+    second: Princesa_Lataria_2
+  - first:
+      213: -7218571985376233421
+    second: Princesa_Lataria_3
+  - first:
+      213: -133585282753711613
+    second: Princesa_Lataria_4
+  - first:
+      213: -7716103624101351814
+    second: Princesa_Lataria_5
+  - first:
+      213: -5125277994781173540
+    second: Princesa_Lataria_6
+  - first:
+      213: 2383686670585592391
+    second: Princesa_Lataria_7
+  - first:
+      213: 4711079724613384333
+    second: Princesa_Lataria_8
+  - first:
+      213: 4154867564843327268
+    second: Princesa_Lataria_9
+  - first:
+      213: -4222092693943645867
+    second: Princesa_Lataria_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Princesa_Lataria_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 364
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9d814946e5860a0800000000000000
+      internalID: -6888151843988776514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 375
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9253f9cec58129500800000000000000
+      internalID: 401410104175310121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 373
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aec9814ae914830800000000000000
+      internalID: 4053695567234918947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 366
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3383012660b72db90800000000000000
+      internalID: -7218571985376233421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 45
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302be32a4e8652ef0800000000000000
+      internalID: -133585282753711613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 86
+        width: 170
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ea553b2a4eae490800000000000000
+      internalID: -7716103624101351814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 98
+        width: 45
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd811f191da5fd8b0800000000000000
+      internalID: -5125277994781173540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a7618c56e841120800000000000000
+      internalID: 2383686670585592391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 30
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8830269c0e116140800000000000000
+      internalID: 4711079724613384333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 30
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f574b690e09a930800000000000000
+      internalID: 4154867564843327268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_Lataria_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 36
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55987b0801d1865c0800000000000000
+      internalID: -4222092693943645867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Princesa_Lataria_0: -6888151843988776514
+      Princesa_Lataria_1: 401410104175310121
+      Princesa_Lataria_10: -4222092693943645867
+      Princesa_Lataria_2: 4053695567234918947
+      Princesa_Lataria_3: -7218571985376233421
+      Princesa_Lataria_4: -133585282753711613
+      Princesa_Lataria_5: -7716103624101351814
+      Princesa_Lataria_6: -5125277994781173540
+      Princesa_Lataria_7: 2383686670585592391
+      Princesa_Lataria_8: 4711079724613384333
+      Princesa_Lataria_9: 4154867564843327268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

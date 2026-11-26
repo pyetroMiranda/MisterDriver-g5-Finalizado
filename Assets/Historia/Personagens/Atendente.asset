@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbe4933a927454299d3a8113d18511, type: 3}
+  m_Name: Atendente
+  m_EditorClassIdentifier: Assembly-CSharp::PersonagemHistoria
+  nome: Jussara
+  corNome: {r: 0.86, g: 0.16, b: 0.2, a: 1}
+  retrato: {fileID: 21300000, guid: 13b94c346138e7c44b8e1ed6597fe525, type: 3}
+  quadros:
+  - {fileID: 21300000, guid: 0841e1e7bf69ff946b38243fe7764421, type: 3}
+  - {fileID: 21300000, guid: 03e70ec01fa013b4198c669981e8780e, type: 3}
+  - {fileID: 21300000, guid: 6a68c06f54a100e49b008fcf31b87c3b, type: 3}
+  - {fileID: 21300000, guid: 87abba668bf80724b898adb5b230165a, type: 3}
+  - {fileID: 21300000, guid: 6754de0a4c7e1184fa3987e1631f3cbd, type: 3}
+  - {fileID: 21300000, guid: bee440d1aeef88740ad7f7b205e42128, type: 3}
+  - {fileID: 21300000, guid: 3e14dfb41ed9e3544acaa04aa5641f84, type: 3}
+  - {fileID: 21300000, guid: 30e887bcc878a5d4a857a19266c1401c, type: 3}
+  - {fileID: 21300000, guid: f8d24751945046f4b92b816837a77ba7, type: 3}
+  tomVoz: 1.3

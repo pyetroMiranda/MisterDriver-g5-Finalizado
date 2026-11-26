@@ -1,0 +1,121 @@
+# JUSSARA, a atendente do caixa do Mercado Bom Preço. Masca chiclete (ploc!), sabe de todas as fofocas
+# da cidade e ama carros. Cabelo black power com faixa vermelha, brincos de argola dourados,
+# camisa vermelha do mercado com avental branco e calça azul-marinho.
+
+paleta
+k 40 22 44
+p 176 112 80
+q 140 84 60
+b 210 110 100
+h 46 30 34
+i 84 56 58
+r 220 40 50
+x 255 210 60
+w 255 255 255
+z 255 140 200
+c 220 40 50
+d 160 24 36
+f 255 255 255
+g 180 30 40
+l 50 60 110
+m 36 44 84
+s 40 30 30
+t 90 80 80
+e 34 20 40
+a 250 250 250
+fim
+
+quadro cabeca_baixo
+...kkkkkkkkkk...
+..khhhihhhhihk..
+.khhihhhhhhhhhk.
+khhhhhhhhhhhhihk
+khhrrrrrrrrrrhhk
+khhhhhhhhhhhhhhk
+.khhpppppppphhk.
+.khippppppppihk.
+.khipeppppepihk.
+.khipeppppepihk.
+.khxbppprppbxhk.
+.kixkpppppppkxik
+..kkkkqppqkkkk..
+fim
+
+quadro cabeca_cima
+...kkkkkkkkkk...
+..khhhihhhhihk..
+.khhihhhhhhhhhk.
+khhhhhhhhhhhhihk
+khhrrrrrrrrrrhhk
+khhhhhhhhhhhhhhk
+khhihhhhhhhhihhk
+khhhhhhhhhhhhhhk
+.khhhhhhhhhhhhk.
+.khhihhhhhhihhk.
+.kxhhhhhhhhhhxk.
+..khhhhhhhhhhk..
+...kkkqppqkkk...
+fim
+
+quadro cabeca_lado
+...kkkkkkkkk....
+..khhhihhhhhk...
+.khhihhhhhhhhk..
+khhhhhhhhhhhhhk.
+khhhrrrrrrrrrrk.
+khhhhhhhhhpppk..
+khhhhhhhpppppk..
+khhhhhhppppepk..
+khhhhhqppppepk..
+kihhxhpppppppk..
+.kihxhppppprk...
+..kiikkpppppk...
+...kkkkqppqk....
+fim
+
+# Retrato (32x32): metade esquerda, a direita é espelhada.
+# Os retoques fazem o brilho dos olhos e a bola de chiclete cor-de-rosa.
+quadro retrato_metade
+......kkkkkkkkkk
+....kkhhhhhhihhh
+...khhhihhhhhhhh
+..khhhhhhhhhhihh
+.khhihhhhhhhhhhh
+.khhhhhhhhhhhhhh
+khhhhhhhhhhhhhhh
+khhhihhhhhhhhhhh
+khhhhrrrrrrrrrrr
+khhhrrrrrrrrrrrr
+khhhhhhhhhhhhhhh
+khhhhhhhhhhhiiii
+khhihhhhhiippppp
+khhhhhhiippppppp
+khhhhhippppppppp
+khhhhppppppppppp
+khhhhpppiiippppp
+khhhhppppppppppp
+khhhqppkkkkkpppp
+khhhqpppwweepppp
+khhhppppweeepppp
+khhhppppeeeepppp
+khhxpbbppeeppppp
+khxhxbbppppppppp
+khhxhppppppppppp
+.khhkqpppppppprr
+.khhhkqpppppppkr
+.kihhhkqqppppppp
+..kiihhkkkqqqqqq
+..kkkiikkddcqqqq
+.kdcccccccckfaaa
+kdcccccccccckfaa
+fim
+
+retoques
+19 20 wwee
+20 20 weee
+24 20 kkk
+25 19 kzzzk
+26 19 kzwzk
+27 19 kzzzk
+28 20 kkk
+fim

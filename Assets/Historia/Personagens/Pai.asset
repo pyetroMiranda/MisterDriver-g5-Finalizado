@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbe4933a927454299d3a8113d18511, type: 3}
+  m_Name: Pai
+  m_EditorClassIdentifier: Assembly-CSharp::PersonagemHistoria
+  nome: "Bet\xE3o"
+  corNome: {r: 0.2, g: 0.62, b: 0.35, a: 1}
+  retrato: {fileID: 21300000, guid: 0fb85bfe03b8d4a49aabcdb975e7f37b, type: 3}
+  quadros:
+  - {fileID: 21300000, guid: fec94de7dee1c9847ba9fed8f85afa2f, type: 3}
+  - {fileID: 21300000, guid: 48e403bb2af8e734d869e338723913fc, type: 3}
+  - {fileID: 21300000, guid: 2732cb130b8d758488e355765ae822d1, type: 3}
+  - {fileID: 21300000, guid: e9453f895f97f384a9450edc74fccf5a, type: 3}
+  - {fileID: 21300000, guid: 706be472dfa3a7940a551ef8707bdd05, type: 3}
+  - {fileID: 21300000, guid: d7305bb59d8ab934bb793089d74cbae1, type: 3}
+  - {fileID: 21300000, guid: 6e8079994abe54d49912b7573ffcce34, type: 3}
+  - {fileID: 21300000, guid: 17dc88fc71d8c8542a914753c311a247, type: 3}
+  - {fileID: 21300000, guid: 6f07e4aefc184cc4e8cd7d7e67d39222, type: 3}
+  tomVoz: 0.72

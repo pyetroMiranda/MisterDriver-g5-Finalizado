@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbe4933a927454299d3a8113d18511, type: 3}
+  m_Name: Jason
+  m_EditorClassIdentifier: Assembly-CSharp::PersonagemHistoria
+  nome: Jason
+  corNome: {r: 1, g: 0.5, b: 0.1, a: 1}
+  retrato: {fileID: 21300000, guid: 442cf8e11e7165e40b9f22e705f55d26, type: 3}
+  quadros:
+  - {fileID: 21300000, guid: f8c324b41809d8e4cb7cf7b48c5a962d, type: 3}
+  - {fileID: 21300000, guid: dbbdf51e36a402d41a8319395734cf9a, type: 3}
+  - {fileID: 21300000, guid: ec3aa32e8852cab469e5d6945a83e71b, type: 3}
+  - {fileID: 21300000, guid: 11bd1ce7647db5843a4ee87b7771d19f, type: 3}
+  - {fileID: 21300000, guid: 8c1bbbc17525b4e40975332ec6161662, type: 3}
+  - {fileID: 21300000, guid: 0c172c2420c470c4e86aec60f10af7b5, type: 3}
+  - {fileID: 21300000, guid: 73beddb4e6bcd3c49a930f1be6287885, type: 3}
+  - {fileID: 21300000, guid: 6dd646447ba17494e90c09c2339cd4e4, type: 3}
+  - {fileID: 21300000, guid: 5cef8f1db0097c44dab464b1660cfb96, type: 3}
+  tomVoz: 1.1

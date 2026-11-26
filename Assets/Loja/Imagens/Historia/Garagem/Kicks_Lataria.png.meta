@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: c8c8e1692431a3044bb6ee87c1f30f80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3248968811529455257
+    second: Kicks_Lataria_0
+  - first:
+      213: 2466196567554668846
+    second: Kicks_Lataria_1
+  - first:
+      213: -1112593543823479817
+    second: Kicks_Lataria_2
+  - first:
+      213: -4683151217370501141
+    second: Kicks_Lataria_3
+  - first:
+      213: -1358434610861656168
+    second: Kicks_Lataria_4
+  - first:
+      213: 2150049655846216453
+    second: Kicks_Lataria_5
+  - first:
+      213: 1904858212505269273
+    second: Kicks_Lataria_6
+  - first:
+      213: 3489463127736177800
+    second: Kicks_Lataria_7
+  - first:
+      213: 8859911452986474464
+    second: Kicks_Lataria_8
+  - first:
+      213: -3053696879468480919
+    second: Kicks_Lataria_9
+  - first:
+      213: 173906512754754046
+    second: Kicks_Lataria_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kicks_Lataria_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 364
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99649899be7a61d20800000000000000
+      internalID: 3248968811529455257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 375
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29326336b0b93220800000000000000
+      internalID: 2466196567554668846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 373
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb220111164f80f0800000000000000
+      internalID: -1112593543823479817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 366
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef613bb7ca120fb0800000000000000
+      internalID: -4683151217370501141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 45
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897bef03beed52de0800000000000000
+      internalID: -1358434610861656168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 86
+        width: 170
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5032a2245c286dd10800000000000000
+      internalID: 2150049655846216453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 98
+        width: 45
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914bcdfa37a6f6a10800000000000000
+      internalID: 1904858212505269273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884d9890a301d6030800000000000000
+      internalID: 3489463127736177800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 30
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef7ca0568ab4fa70800000000000000
+      internalID: 8859911452986474464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 30
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966ff870ed61f95d0800000000000000
+      internalID: -3053696879468480919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicks_Lataria_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 36
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1cfdc4d07d96200800000000000000
+      internalID: 173906512754754046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kicks_Lataria_0: 3248968811529455257
+      Kicks_Lataria_1: 2466196567554668846
+      Kicks_Lataria_10: 173906512754754046
+      Kicks_Lataria_2: -1112593543823479817
+      Kicks_Lataria_3: -4683151217370501141
+      Kicks_Lataria_4: -1358434610861656168
+      Kicks_Lataria_5: 2150049655846216453
+      Kicks_Lataria_6: 1904858212505269273
+      Kicks_Lataria_7: 3489463127736177800
+      Kicks_Lataria_8: 8859911452986474464
+      Kicks_Lataria_9: -3053696879468480919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

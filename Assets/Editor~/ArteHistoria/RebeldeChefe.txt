@@ -1,0 +1,114 @@
+# TURBO, o chefe da Gangue do Escapamento. Dirige sem respeitar nenhuma lei de trânsito,
+# acha que a cidade é dele e fala alto. Moicano cor-de-rosa, óculos escuros, jaqueta preta
+# com tachinhas prateadas, camiseta branca, calça jeans rasgada e coturno.
+
+paleta
+k 40 22 44
+p 255 214 180
+q 220 160 130
+h 255 60 180
+i 200 30 140
+o 30 30 40
+n 140 200 255
+x 210 210 220
+w 255 255 255
+c 50 50 62
+d 30 30 40
+f 210 210 220
+g 255 60 180
+l 70 110 190
+m 50 80 150
+s 40 30 30
+t 110 100 100
+e 34 20 40
+a 245 245 245
+fim
+
+quadro cabeca_baixo
+......kkk.......
+.....khhik......
+.....khhik......
+....kkhhikk.....
+...kpphhiipqk...
+..kpppphhipppqk.
+.kppppppppppppqk
+.kpppppppppppppk
+.kpoooooooooopk.
+.kponooppoonopk.
+.kpppppppppppqk.
+..kpppkkkkpppk..
+...kkqppppqkk...
+fim
+
+quadro cabeca_cima
+......kkk.......
+.....khhik......
+.....khhik......
+....kkhhikk.....
+...kpphhiipqk...
+..kpppphhipppqk.
+.kppppphhippppqk
+.kppppphhippppqk
+.kppppphhippppqk
+.kpppppphippppqk
+.kxpppppppppppxk
+..kpppppppppqk..
+...kkqppppqkk...
+fim
+
+quadro cabeca_lado
+.....kkk........
+....khhik.......
+....khhik.......
+...kkhhikk......
+..kpphhiippk....
+.kppphhiippppk..
+.kpppppppppppk..
+.kppppppooooook.
+.kpxppppponoook.
+.kqxpppppppppk..
+..kqppppppkkk...
+...kqppppppk....
+....kkqppqk.....
+fim
+
+# Retrato (32x32): metade esquerda, a direita é espelhada.
+quadro retrato_metade
+.............kkk
+............khhh
+............khhi
+............khhh
+...........khhhi
+...........khhhh
+..........kkhhhi
+........kkpphhhh
+......kkppppphhi
+.....kpppppppphh
+....kppppppppppi
+....kppppppppppp
+...kpppppppppppp
+...kpppppppppppp
+..kqpppppppppppp
+..kqppppiiiiippp
+..kqpppppppppppp
+.kqooooooooooooo
+.kqonooooooooooo
+.kqpoooooooooopp
+.kqppppppppppppp
+.kxpppppppppppqq
+.kxqppppppppppqp
+..kqpppppppppppp
+..kqpppppkkkkkkk
+..kqppppppkwwwww
+...kqpppppkkkkkk
+...kqqpppppppppp
+....kkqqpppppppp
+......kkkqqqqqqq
+..kkkkcxccckqqqq
+kkcccxcccxcckaaa
+fim
+
+retoques
+18 17 nn
+19 18 n
+fim

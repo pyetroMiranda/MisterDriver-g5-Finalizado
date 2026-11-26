@@ -1,0 +1,352 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c9676554db39c4eb5f0d1ded86ca04, type: 3}
+  m_Name: BancoSons
+  m_EditorClassIdentifier: Assembly-CSharp::BancoSons
+  mixer: {fileID: 24100000, guid: acd26729c7c07dd43aa1afb6cd97fe64, type: 2}
+  grupoMusica: {fileID: 3964431495691865958, guid: acd26729c7c07dd43aa1afb6cd97fe64, type: 2}
+  grupoEfeitos: {fileID: 8412947608620133479, guid: acd26729c7c07dd43aa1afb6cd97fe64, type: 2}
+  efeitos:
+  - id: Clique
+    clip: {fileID: 8300000, guid: ff849bdab8bca634bb2faf6603ccf022, type: 3}
+    volume: 0.7
+    variacaoTom: 0.02
+  - id: Navegar
+    clip: {fileID: 8300000, guid: 53704181cf6fae24f9192f9b0c6686a0, type: 3}
+    volume: 0.45
+    variacaoTom: 0.02
+  - id: Confirmar
+    clip: {fileID: 8300000, guid: 3fbd6bfa6e792804d8c18a0ac4b882bb, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Voltar
+    clip: {fileID: 8300000, guid: d88040a8c4b60d942a3c3f262b6a5db9, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Abrir
+    clip: {fileID: 8300000, guid: 2ef296cf85f1f844fbd79c8334e2e64f, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: Comprar
+    clip: {fileID: 8300000, guid: e215e943c6bab5e4c8a4fb5c78bb3931, type: 3}
+    volume: 0.8
+    variacaoTom: 0.03
+  - id: SemMoedas
+    clip: {fileID: 8300000, guid: 94358f6c8d7490742a42fc34369862ae, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Pausa
+    clip: {fileID: 8300000, guid: 728095a4a28d2dd46b4045cf2b754bbd, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Despausa
+    clip: {fileID: 8300000, guid: 48716cd540f2714479a0e2aa36baf430, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: MotorLoop
+    clip: {fileID: 8300000, guid: 99ea19cbd8fc94c419d30a33e32754d3, type: 3}
+    volume: 0.5
+    variacaoTom: 0
+  - id: DerrapagemLoop
+    clip: {fileID: 8300000, guid: 5a17dc2c0092bde47b1faf101c44b59e, type: 3}
+    volume: 0.5
+    variacaoTom: 0
+  - id: Freio
+    clip: {fileID: 8300000, guid: ecfeebf28fa7704429309109283219fe, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: FreioDeMao
+    clip: {fileID: 8300000, guid: f3080f38f5a674b42a9f1b146d312b32, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Re
+    clip: {fileID: 8300000, guid: c2d65c4baaa773746aec707067cd1cb1, type: 3}
+    volume: 0.45
+    variacaoTom: 0.03
+  - id: Buraco
+    clip: {fileID: 8300000, guid: e5dc971f9f5a2aa448fb43b56468cc05, type: 3}
+    volume: 0.9
+    variacaoTom: 0.03
+  - id: Batida
+    clip: {fileID: 8300000, guid: d2749b4dc4ee1bd40a40103a55f71d1a, type: 3}
+    volume: 0.9
+    variacaoTom: 0.08
+  - id: BatidaLeve
+    clip: {fileID: 8300000, guid: 3e8b81154419bcc40912e9f1e714cdef, type: 3}
+    volume: 0.75
+    variacaoTom: 0.08
+  - id: BatidaParede
+    clip: {fileID: 8300000, guid: d8454c6835e88a349845c3284b06dd99, type: 3}
+    volume: 0.85
+    variacaoTom: 0.08
+  - id: Cone
+    clip: {fileID: 8300000, guid: d5d84bdd9ad298d43b6938e219c4795b, type: 3}
+    volume: 0.8
+    variacaoTom: 0.03
+  - id: PerdeuPontos
+    clip: {fileID: 8300000, guid: 4247fafa689be6e46bf6443d9609cac9, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Moeda
+    clip: {fileID: 8300000, guid: 8d8b4c0ac82cde24d88967ddf49ff01e, type: 3}
+    volume: 0.65
+    variacaoTom: 0.03
+  - id: Estacionou
+    clip: {fileID: 8300000, guid: 74f6b89818b3dc649a481ecb41fe05af, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Buzina
+    clip: {fileID: 8300000, guid: 83ef02a8c80fa7142a6603b4467e841f, type: 3}
+    volume: 0.75
+    variacaoTom: 0.03
+  - id: NitroInicio
+    clip: {fileID: 8300000, guid: 229b92bdb30dde044bde172a969dac9a, type: 3}
+    volume: 0.85
+    variacaoTom: 0.03
+  - id: NitroLoop
+    clip: {fileID: 8300000, guid: 9908555be7b9a3345b7855743d297e17, type: 3}
+    volume: 0.5
+    variacaoTom: 0
+  - id: MolaAtivar
+    clip: {fileID: 8300000, guid: cad3a7dd2e1f4a542acf147789e4ff31, type: 3}
+    volume: 0.75
+    variacaoTom: 0.03
+  - id: MolaEmpurrao
+    clip: {fileID: 8300000, guid: c37e23a047bfbfa47b2611882ce8ed31, type: 3}
+    volume: 0.8
+    variacaoTom: 0.03
+  - id: GPSLiga
+    clip: {fileID: 8300000, guid: 9324a21adbd242146acdc0582a0123e1, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: GPSDesliga
+    clip: {fileID: 8300000, guid: f629fc121dbf7844483943b198d495ce, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: CameraLentaInicio
+    clip: {fileID: 8300000, guid: 582660ae9f2673e4b9084fbb8c85e4ed, type: 3}
+    volume: 0.8
+    variacaoTom: 0.03
+  - id: CameraLentaFim
+    clip: {fileID: 8300000, guid: c2e9981132f8e754fb2785f988b01b3f, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: ABS
+    clip: {fileID: 8300000, guid: 22417d59e19160d49b675ec02b6db347, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Suspensao
+    clip: {fileID: 8300000, guid: 063d2b3428e26ef429bcc01d5c608fdd, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Advogado
+    clip: {fileID: 8300000, guid: 92c4bdc32d403f14aa7f1ef2f25af50e, type: 3}
+    volume: 0.8
+    variacaoTom: 0.03
+  - id: PoderPronto
+    clip: {fileID: 8300000, guid: d522442428aeb4942833e26404c13633, type: 3}
+    volume: 0.45
+    variacaoTom: 0.03
+  - id: BuzinaTrafego
+    clip: {fileID: 8300000, guid: 352c0b614a9c74f44af4e51b8c062ce7, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: BuzinaTrafego2
+    clip: {fileID: 8300000, guid: 99e38f4fc91901e4a82f9e250bf0a073, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: BuzinaRebelde
+    clip: {fileID: 8300000, guid: 53f6f06c4ad56dd4d91af0b6e6f7c6bb, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: MotoLoop
+    clip: {fileID: 8300000, guid: eccf026a2445c2148a718fbf91c8c735, type: 3}
+    volume: 0.45
+    variacaoTom: 0
+  - id: CarroRebeldeLoop
+    clip: {fileID: 8300000, guid: 9f351110d69de4546bc70dd738b7a38a, type: 3}
+    volume: 0.5
+    variacaoTom: 0
+  - id: Ai
+    clip: {fileID: 8300000, guid: a9967c26b8e2d1941bb30d439726e840, type: 3}
+    volume: 0.75
+    variacaoTom: 0.08
+  - id: Pulo
+    clip: {fileID: 8300000, guid: 39399de6a854ee0449939f5e9a049e8e, type: 3}
+    volume: 0.5
+    variacaoTom: 0.03
+  - id: Passo
+    clip: {fileID: 8300000, guid: a6c12450ad4d87b43803740e82a246ba, type: 3}
+    volume: 0.35
+    variacaoTom: 0.08
+  - id: Passo2
+    clip: {fileID: 8300000, guid: 6e39494de3acc874c9653b806906e82b, type: 3}
+    volume: 0.35
+    variacaoTom: 0.08
+  - id: Esbarrao
+    clip: {fileID: 8300000, guid: 1db8c16b5aef735409b0ae6fb4280507, type: 3}
+    volume: 0.55
+    variacaoTom: 0.03
+  - id: Porta
+    clip: {fileID: 8300000, guid: 4e817a32ecfdf7842b8a7e5b989ea59f, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: PortaoGaragem
+    clip: {fileID: 8300000, guid: b31ff240aa85cf241b3fbab6c38de0b4, type: 3}
+    volume: 0.75
+    variacaoTom: 0.03
+  - id: Interagir
+    clip: {fileID: 8300000, guid: bcc285b81ba975c4a9db7d7ee4dcfdee, type: 3}
+    volume: 0.45
+    variacaoTom: 0.03
+  - id: PegouItem
+    clip: {fileID: 8300000, guid: b0a71acd35e593440abe0a06a6a6791b, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Latas
+    clip: {fileID: 8300000, guid: 464309287bae77f41a8aaadb8954ecd8, type: 3}
+    volume: 0.9
+    variacaoTom: 0.08
+  - id: CaixaRegistradora
+    clip: {fileID: 8300000, guid: 626007166c63dc04a99c5f46f12e2d41, type: 3}
+    volume: 0.8
+    variacaoTom: 0.03
+  - id: Emote_Exclamacao
+    clip: {fileID: 8300000, guid: 1b99ac6502cc2c54883341c499f1e948, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: Emote_Interrogacao
+    clip: {fileID: 8300000, guid: 30686b85bb0d7ab4d801b52a93777b23, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: Emote_Coracao
+    clip: {fileID: 8300000, guid: 429df0825928e964b946d90066282780, type: 3}
+    volume: 0.55
+    variacaoTom: 0.03
+  - id: Emote_Sono
+    clip: {fileID: 8300000, guid: cb677f10b98c7f64996f33967c1791df, type: 3}
+    volume: 0.5
+    variacaoTom: 0.03
+  - id: Emote_Gota
+    clip: {fileID: 8300000, guid: 2720a86e8d4d4e847b26134f104e27fd, type: 3}
+    volume: 0.55
+    variacaoTom: 0.03
+  - id: Objetivo
+    clip: {fileID: 8300000, guid: c938650b93b576e42bf7fa3ebb4447b8, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: Transicao
+    clip: {fileID: 8300000, guid: dc4b8d07915499a4595ca7d343b1846c, type: 3}
+    volume: 0.5
+    variacaoTom: 0.03
+  - id: DialogoAbrir
+    clip: {fileID: 8300000, guid: 9d3ce45379177674893fca23d5bb5139, type: 3}
+    volume: 0.5
+    variacaoTom: 0.03
+  - id: DialogoAvancar
+    clip: {fileID: 8300000, guid: 21f33eff7be444b4b860028245fbfa58, type: 3}
+    volume: 0.45
+    variacaoTom: 0.03
+  - id: VozGrave
+    clip: {fileID: 8300000, guid: 5a8366bbe3b41f84b8384bd11ccda1a7, type: 3}
+    volume: 0.5
+    variacaoTom: 0
+  - id: VozMedia
+    clip: {fileID: 8300000, guid: de3202b858c5f63429d4518f7174ccf2, type: 3}
+    volume: 0.5
+    variacaoTom: 0
+  - id: VozFina
+    clip: {fileID: 8300000, guid: 6de4177fe575d5d4382a34aa0fefeee0, type: 3}
+    volume: 0.5
+    variacaoTom: 0
+  - id: VozSuave
+    clip: {fileID: 8300000, guid: 7c4e56c6117653140a905ea2825cc693, type: 3}
+    volume: 0.55
+    variacaoTom: 0
+  - id: VozNarrador
+    clip: {fileID: 8300000, guid: 0f4dfeda61476bc4ca8dc2ab582c02e6, type: 3}
+    volume: 0.5
+    variacaoTom: 0
+  - id: Ponto
+    clip: {fileID: 8300000, guid: e1d13464c7215db439546c10228f2558, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: Falta
+    clip: {fileID: 8300000, guid: 3c3b86001225fbb4c94bfd4057535102, type: 3}
+    volume: 0.7
+    variacaoTom: 0.03
+  - id: RetroStart
+    clip: {fileID: 8300000, guid: f874a6b882c35514d82183458054d690, type: 3}
+    volume: 0.6
+    variacaoTom: 0.03
+  - id: RetroCarregando
+    clip: {fileID: 8300000, guid: 36e100147ed9cec4bbc64d7c72e77405, type: 3}
+    volume: 0.45
+    variacaoTom: 0.03
+  - id: RetroMotorLoop
+    clip: {fileID: 8300000, guid: 702581a51f3257b4f9ecc589855d7ea9, type: 3}
+    volume: 0.22
+    variacaoTom: 0
+  - id: RetroBatida
+    clip: {fileID: 8300000, guid: 05d3aea236e06014689809f2b266793c, type: 3}
+    volume: 0.8
+    variacaoTom: 0.03
+  - id: RetroPonto
+    clip: {fileID: 8300000, guid: 73c59400c288a024e8ea9695c1354a37, type: 3}
+    volume: 0.4
+    variacaoTom: 0.03
+  - id: RetroGameOver
+    clip: {fileID: 8300000, guid: c9518948dd6bfda43bf9195d97f804f6, type: 3}
+    volume: 0.45
+    variacaoTom: 0.03
+  - id: RetroTique
+    clip: {fileID: 8300000, guid: 037d4525bd16834429d48faeaa25b453, type: 3}
+    volume: 0.45
+    variacaoTom: 0.03
+  - id: RetroFicha
+    clip: {fileID: 8300000, guid: e21e55c962b00774db37e7121d79b900, type: 3}
+    volume: 0.45
+    variacaoTom: 0.03
+  musicas:
+  - cena: Menu
+    musica: {fileID: 8300000, guid: e06d4992a4dcc904391735249754686c, type: 3}
+    volume: 0.5
+  - cena: Tutorial
+    musica: {fileID: 8300000, guid: fdfa781c53c335949ae8edcb05079eb6, type: 3}
+    volume: 0.5
+  - cena: Historia_Casa
+    musica: {fileID: 8300000, guid: 2455094886ac4ae43b59da6fa3701034, type: 3}
+    volume: 0.5
+  - cena: Historia_Garagem
+    musica: {fileID: 8300000, guid: 2455094886ac4ae43b59da6fa3701034, type: 3}
+    volume: 0.5
+  - cena: Historia_Autoescola
+    musica: {fileID: 8300000, guid: 35e087ce8957cc2499cbc832d7570645, type: 3}
+    volume: 0.5
+  - cena: Historia_Exame
+    musica: {fileID: 8300000, guid: 40d598cbc61b6aa4ca826f92a2cb181d, type: 3}
+    volume: 0.5
+  - cena: Nivel1
+    musica: {fileID: 8300000, guid: 19cdf1ed05a172548af81b3937688ba7, type: 3}
+    volume: 0.5
+  - cena: Historia_Mercado
+    musica: {fileID: 8300000, guid: af315256ea76a27488d0f6788219088a, type: 3}
+    volume: 0.5
+  - cena: Historia_Videogame
+    musica: {fileID: 8300000, guid: a313e92035e32f44a91d5b78f337e464, type: 3}
+    volume: 0.22
+  musicaPerseguicao: {fileID: 8300000, guid: c744c59ad978f344395cb06d9b4691af, type: 3}
+  volumePerseguicao: 0.5
+  vinhetaVitoria: {fileID: 8300000, guid: 50cc0fa67092a3947934742f72244594, type: 3}
+  vinhetaCarteira: {fileID: 8300000, guid: 09deb6d4c24d07a47b527b8c8a8cb068, type: 3}
+  vinhetaDerrota: {fileID: 8300000, guid: 7b3ae3ae0bdd9c84b89968f31c69885e, type: 3}
+  volumeVinhetas: 0.65

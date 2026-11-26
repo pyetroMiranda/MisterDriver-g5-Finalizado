@@ -1,0 +1,120 @@
+# DONA CIDA (a mãe). Enfermeira plantonista, superprotetora e fala mais rápido que motor de Fórmula 1.
+# Cabelo ruivo cacheado preso num coque enorme com uma caneta espetada, brincos de argola dourados,
+# batom vermelho, blusa rosa com avental branco e saia roxa. Bordão: "CINTO DE SEGURANÇA!"
+
+paleta
+k 40 22 44
+p 255 208 172
+q 222 156 120
+b 255 140 150
+h 220 80 40
+i 160 44 26
+j 255 150 80
+x 255 210 60
+y 60 120 230
+r 220 30 60
+w 255 255 255
+c 255 150 190
+d 220 100 150
+f 255 255 255
+g 240 130 175
+l 140 70 170
+m 96 44 124
+s 120 40 80
+t 200 90 140
+e 34 20 40
+a 255 255 255
+fim
+
+quadro cabeca_baixo
+.....kkkkkk.....
+....khhjjhhk....
+....khijhiyk....
+..kkkhhhhhhkkk..
+.khhjhhhhhhjhhk.
+.khhhhhhhhhhhhk.
+.khhjphhhhpjhhk.
+.khippppppppihk.
+.khipeppppepihk.
+.khipeppppepihk.
+.khxbppprppbxhk.
+.kixkpppppppkxik
+..kkkkqppqkkkk..
+fim
+
+quadro cabeca_cima
+.....kkkkkk.....
+....khhjjhhk....
+....khiihhik....
+..kkkhhhhhhkkk..
+.khhjhhhhhhjhhk.
+.khhhhhhhhhhhhk.
+.khhjhhhhhhjhhk.
+.khhhhhhhhhhhhk.
+.khihhhhhhhhihk.
+.khiihhhhhhiihk.
+.khxiihhhhiixhk.
+.kixiiiiiiiixik.
+..kkkkqppqkkkk..
+fim
+
+quadro cabeca_lado
+....kkkkkk......
+...khhjjhhk.....
+...khijhiiyk....
+..kkhhhhhhkkk...
+.khhjhhhhhhhhk..
+.khhhhhhhhhhhhk.
+.khhhhhhhhjhppk.
+.khhhhhhhjpppk..
+.khhhhhpppppepk.
+.kihhhqpppppepk.
+.kihhxpppppprk..
+..kiixkppppbk...
+...kkkkqppqk....
+fim
+
+# Retrato (32x32): metade esquerda, a direita é espelhada.
+# Os retoques colocam a caneta azul espetada no coque.
+quadro retrato_metade
+..........kkkkkk
+.........khhjjhh
+.........khjhhhh
+......kkkkhhhiih
+.....khhhjkkiihh
+....khhjhhhhiiii
+...khhjhhhhhhhhh
+...khhhhhhhhhhhh
+..khjhhhhhhhhhhh
+..khhhhhhhhhhhhh
+..khhhhhhhhhhhhh
+.khhhhhhhhhhhhhh
+.khhjhhhhhhiiiih
+.khhhhhhhiipppii
+.khhhhhiippppppp
+.khhhhippppppppp
+khjhhipppiiipppp
+khhhhppppppppppp
+khhhqppkkkkkpppp
+khhhqpppwweepppp
+khhhppppweeepppp
+khhhppppeeeepppp
+khhxpbbppeeppppp
+khxhxbbppppppppp
+khhxhppppppppppp
+.khhkqpppppppprr
+.khhhkqpppppppkr
+.kihhhkqqppppppp
+..kiihhkkkqqqqqq
+..kkkiikkddcqqqq
+.kdcccccccckfaaa
+kdcccccccccckfaa
+fim
+
+retoques
+0 22 ky
+1 21 y
+2 20 y
+19 20 wwee
+20 20 weee
+fim

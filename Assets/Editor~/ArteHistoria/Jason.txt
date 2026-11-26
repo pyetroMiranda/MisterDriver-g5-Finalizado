@@ -1,0 +1,117 @@
+# JASON, o protagonista (18 anos). Dorminhoco, otimista e sonha em ser o "Mr. Driver".
+# Cabelo castanho espetado com um topete rebelde, moletom laranja com cordões, calça jeans e tênis vermelho.
+
+paleta
+k 40 22 44
+p 255 214 170
+q 226 160 120
+b 255 150 140
+h 120 70 40
+i 80 44 26
+j 176 112 60
+c 255 140 40
+d 210 92 26
+f 255 236 210
+g 230 110 30
+l 70 100 180
+m 44 66 130
+s 220 44 44
+t 255 255 255
+e 34 20 40
+w 255 255 255
+r 200 70 70
+a 255 140 40
+fim
+
+quadro cabeca_baixo
+......kkk.......
+....kkhjhkkk....
+...khhhjhhhhk...
+..khhhhhhhhhhk..
+.khhjhhhhhhjhhk.
+.khhhhhhhhhhhhk.
+.khihhihhihhihk.
+.kihpphhpphhpik.
+.kippppppppppik.
+.kppeppppppeppk.
+.kppeppppppeppk.
+..kbppppppppbk..
+...kkqppppqkk...
+fim
+
+quadro cabeca_cima
+......kkk.......
+....kkhjhkkk....
+...khhhjhhhhk...
+..khhhhhhhhhhk..
+.khhjhhhhhhjhhk.
+.khhhhhhhhhhhhk.
+.khhhhhhhhhhhhk.
+.khhhhhhhhhhhhk.
+.kihhhhhhhhhhik.
+.kiihhhhhhhhiik.
+.kpiiihhhhiiipk.
+..kpiiiiiiiipk..
+...kkqppppqkk...
+fim
+
+quadro cabeca_lado
+.......kkk......
+.....kkhjhk.....
+....khhhjhhkk...
+...khhhhhhhhhk..
+..khhjhhhhhhhhk.
+..khhhhhhhhhhhk.
+..khhhhhhhhihhk.
+..khhhhhhhiphpk.
+..kihhhhpppppk..
+..kihpqppppepk..
+..kiihpppppepk..
+...kiipppbppk...
+....kkqpppkk....
+fim
+
+# Retrato da caixa de diálogo (32x32): só a metade ESQUERDA é desenhada, a direita é espelhada.
+# "retoques" muda pixels depois do espelho (linha coluna letras), para o que não é simétrico.
+quadro retrato_metade
+................
+................
+..........kkkkkk
+........kkhhhhhh
+.......khhhhhjhh
+......khhhhhjhhh
+.....khhhhhjhhhh
+....khhhhhhhhhhh
+....khhjhhhhhhhh
+...khhjhhhhhhhhh
+...khhhhhhhhhhhh
+...khihhhhihhhhi
+...khiphhhipphhi
+...kiipphipppphp
+...kippppppppppp
+..kqipppiiiipppp
+..kqqppppppppppp
+..kqqpppkkkkpppp
+..kqppppwweepppp
+...kppppweeepppp
+...kppppeeeepppp
+...kpbbppeeppppp
+...kpbbppppppppp
+....kpppppppppkp
+....kqppppppppkk
+.....kqppppppppp
+......kkqppppppp
+........kkkkqqqq
+.....kkkkdccckqq
+...kkddcccccccfk
+..kdccccccccccfc
+.kdcccccccccccfc
+fim
+
+retoques
+18 20 wwee
+19 20 weee
+0 14 ..kk
+1 13 kkjhk
+2 12 kkhjh
+fim

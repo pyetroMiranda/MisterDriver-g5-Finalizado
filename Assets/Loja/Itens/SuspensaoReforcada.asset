@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6636a76c953ad9a47b9d44afe34343b2, type: 3}
+  m_Name: SuspensaoReforcada
+  m_EditorClassIdentifier: Assembly-CSharp::ItemLoja
+  id: SuspensaoReforcada
+  nome: "Suspens\xE3o Refor\xE7ada"
+  descricao: "Aperte J: por 8 segundos os buracos n\xE3o freiam o carro nem tiram
+    pontos. Recarrega em 25 s."
+  icone: {fileID: 0}
+  categoria: 0
+  preco: 160
+  gratisNoInicio: 0
+  niveisMaximos: 1
+  aumentoPorNivel: 0

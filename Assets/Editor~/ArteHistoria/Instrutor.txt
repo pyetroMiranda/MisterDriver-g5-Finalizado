@@ -1,0 +1,120 @@
+# SEU GERVÁSIO (o instrutor da autoescola). 25 anos dando aula e um coração que não aguenta mais.
+# Boné azul da "Autoescola Freio de Mão", monocelha gigante, bigodinho fino, camisa amarela
+# com gravata vermelha torta e prancheta. Bordões: "AI, MEU CORAÇÃO!" e "CADÊ A SETA?!"
+
+paleta
+k 40 22 44
+p 230 176 130
+q 190 128 90
+b 235 130 110
+x 40 90 200
+y 26 56 140
+z 255 255 255
+h 60 40 30
+i 40 26 20
+u 50 34 26
+e 34 20 40
+w 255 255 255
+c 255 220 70
+d 214 170 40
+f 255 220 70
+g 240 200 60
+l 70 70 90
+m 46 46 62
+s 30 30 40
+t 120 120 140
+a 210 40 50
+n 150 210 255
+fim
+
+quadro cabeca_baixo
+................
+.....kkkkkk.....
+...kkxxxxxxkk...
+..kxxxxzzxxxxk..
+..kxxxxzzxxxxk..
+.kxxxxxxxxxxxxk.
+.kyyyyyyyyyyyyk.
+.khpppppppppphk.
+.kppuuuuuuuuppk.
+.kppeppppppeppk.
+.kbpeppppppepbk.
+..kpppuuuupppk..
+...kkqppppqkk...
+fim
+
+quadro cabeca_cima
+................
+.....kkkkkk.....
+...kkxxxxxxkk...
+..kxxxxxxxxxxk..
+..kxxxxxxxxxxk..
+.kxxxxxxxxxxxxk.
+.kxxxxxxxxxxxxk.
+.khxxxyyyyxxxhk.
+.khhhhhhhhhhhhk.
+.khhhhhhhhhhhhk.
+.kphhhhhhhhhhpk.
+..kpiiiiiiiipk..
+...kkqppppqkk...
+fim
+
+quadro cabeca_lado
+................
+......kkkkkk....
+....kkxxxxxxk...
+...kxxxxxxzzxk..
+...kxxxxxxzzxk..
+..kxxxxxxxxxxxk.
+..kxxxxxxyyyyyyk
+..khhhpppppppk..
+..khhpppuuuuupk.
+..khpqppppppepk.
+..khhpppppppepk.
+...kihppppuuuk..
+....kkqpppkk....
+fim
+
+# Retrato (32x32): metade esquerda, a direita é espelhada.
+# Os retoques colocam a gota de suor de nervoso do lado direito.
+quadro retrato_metade
+................
+................
+..........kkkkkk
+........kkxxxxxx
+.......kxxxxxxxx
+......kxxxxxxxzz
+.....kxxxxxxxxzz
+.....kxxxxxxxxzz
+....kxxxxxxxxxxx
+....kxxxxxxxxxxx
+...kxxxxxxxxxxxx
+..kyyyyyyyyyyyyy
+..kyyyyyyyyyyyyy
+..kkkkkkkkkkkkkk
+...khhppqqqqqqqq
+...khppppppppppp
+..kphpppuuuuuuuu
+..kpppuuuuuuuupp
+..kqpppppppppppp
+..kqpppppeeppppp
+..kqpppppeeppppp
+..kppbbppppppppp
+..kppbbpppppppqq
+...kpppppppuuuuu
+...kppppppuppppp
+....kpppppppkpkp
+....kqpppppppkpk
+.....kqppppppppp
+......kkqqpppppp
+...kkkkcccckkkka
+.kkdccccccccckaa
+kdccccccccccckaa
+fim
+
+retoques
+15 25 n
+16 24 nnk
+17 24 nnk
+18 25 k
+fim

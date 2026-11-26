@@ -1,0 +1,113 @@
+# Capangas da Gangue do Escapamento. Touca, fone de ouvido gigante, sardas e moletom pichado.
+# O mesmo desenho vira dois rebeldes diferentes: a ferramenta troca as cores da touca, do moletom e da pele.
+
+paleta
+k 40 22 44
+p 240 190 150
+q 200 140 110
+b 200 120 90
+h 60 180 90
+i 40 130 60
+u 110 70 40
+x 50 50 62
+w 255 255 255
+c 120 60 180
+d 84 40 130
+f 240 240 240
+g 255 220 60
+l 90 80 60
+m 70 60 44
+s 240 240 240
+t 255 80 80
+e 34 20 40
+a 100 50 160
+fim
+
+quadro cabeca_baixo
+....kkkkkkkk....
+...khhhhhhhhk...
+..khhihhhhihhk..
+..khhhhhhhhhhk..
+..kiiiiiiiiiik..
+.kxpppppppppppxk
+.kxpppppppppppxk
+.kxppepppppeppxk
+.kxppepppppeppxk
+.kxpbpppppppbpxk
+.kpppppppppppppk
+..kpppkkkkpppk..
+...kkqppppqkk...
+fim
+
+quadro cabeca_cima
+....kkkkkkkk....
+...khhhhhhhhk...
+..khhihhhhihhk..
+..khhhhhhhhhhk..
+..kiiiiiiiiiik..
+.kxuuuuuuuuuuxk.
+.kxuuuuuuuuuuxk.
+.kxuuuuuuuuuuxk.
+.kuuuuuuuuuuuuk.
+.kuuuuuuuuuuuuk.
+..kpuuuuuuuupk..
+..kkpppppppkk...
+...kkqppppqkk...
+fim
+
+quadro cabeca_lado
+....kkkkkkk.....
+...khhhhhhhk....
+..khhihhhhhhk...
+..khhhhhhhhhk...
+..kiiiiiiiiik...
+..kuuxxpppppk...
+..kuxxxppppppk..
+..kuxxxppppepk..
+..kuuxxppppepk..
+..kuuuqpppppbk..
+...kuuppppkkk...
+....kqppppk.....
+.....kkqqk......
+fim
+
+# Retrato (32x32): metade esquerda, a direita é espelhada.
+quadro retrato_metade
+.......kkkkkkkkk
+.....kkhhhhhhhhh
+....khhhhhhihhhh
+...khhhihhhhhhhh
+...khhhhhhhhhhhh
+..khhhhhhhhhhihh
+..khhhhhhhhhhhhh
+..kiiiiiiiiiiiii
+..kiiiiiiiiiiiii
+.kxxuuuuuuuuuuuu
+kxxxxuuuuuuupppp
+kxxxxuuuuppppppp
+kxxxxuuppppppppp
+kxxxxupppppppppp
+kxxxxppppuuuuppp
+kxxxxppppppppppp
+kxxxxpppkkkkpppp
+.kxxqpppwweepppp
+.kxxqpppweeepppp
+..kkqpppeeeepppp
+...kqpbpbppbpppp
+...kqppppppppppp
+...kqppppppppppp
+...kqppppppppkkk
+....kqpppppppppp
+....kqqppppppppp
+.....kqqqppppppp
+......kkqqqqqqqq
+........kkkqqqqq
+......kkkddcqqqq
+...kkdccccccckaa
+.kkdccccccccckaa
+fim
+
+retoques
+17 20 wwee
+18 20 weee
+fim
